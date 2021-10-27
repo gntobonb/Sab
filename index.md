@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><html xmlns:tei="http://www.tei-c.org/ns/1.0">
+
    <head>
       <link rel="stylesheet" href="cap1.css"></link>
       <title>Sab</title>
