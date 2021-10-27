@@ -1,6 +1,6 @@
 
    <head>
-      <link rel="stylesheet" href="cap1.css"></link>
+      <link rel="stylesheet" href="cap1.css"/>
       <title>Sab</title>
    </head>
    <body>
