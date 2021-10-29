@@ -74,6 +74,11 @@ dt {
   visibility: visible;
 }
 
+.regulado .original::after {
+  content: " ";
+  position: absolute;
+  bottom: 100%;
+
 .autora {
     visibility:hidden;
 }
