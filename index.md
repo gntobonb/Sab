@@ -10,11 +10,16 @@
       
       
       <h1>
-         Sab: lectura digital y académica
+         <i>Sab</i>
       </h1>
+   
       <h2>
-         Gertrudis Gómez de Avellaneda
+         lectura digital y académica
       </h2>
+      <h3>
+         Gertrudis Gómez de Avellaneda
+      </h3>
+   
       <h4>
          <i>
             Editado por Génesis Tobón
