@@ -36,6 +36,3 @@
          <a href="https://gntobonb.github.io/Sab/contenido/tabla_de_contenidos.html">Índice</a>
       
       </p>
-   
-       
-   </body>
