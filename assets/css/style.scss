@@ -1,19 +1,10 @@
 ---
 ---
 
-body {
-    background-color:#010101;    
-}
-
 @import "{{ site.theme }}";
 
-
-.epigrafe {
-    text-align:right;
-}
-
-.quote {
-    text-align:center;
+body {
+    background-color:#010101;    
 }
 
 h1 {
@@ -26,6 +17,14 @@ h2 {
 
 h4 {
     color:#6D8DBE;
+}
+
+.epigrafe {
+    text-align:right;
+}
+
+.quote {
+    text-align:center;
 }
 
 a {
