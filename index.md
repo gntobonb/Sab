@@ -31,7 +31,7 @@
    
       <p>
          A continuación, el índice de la novela: 
-         </br>      
+         <br>      
          <a href="contenido/tabla_de_contenidos.md">Índice</a>
       
       </p>
