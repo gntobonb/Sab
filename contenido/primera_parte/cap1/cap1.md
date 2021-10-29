@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><html xmlns:tei="http://www.tei-c.org/ns/1.0">
    <head>
-      <link rel="stylesheet" href="cap1.css"></link>
       <title>Sab</title>
    </head>
    <body>
@@ -17,13 +15,13 @@
       
       
       <div class="epigrafe"><br>—<span class="agregado">¿</span><span class="original">Quien</span><span class="regulado">Quién</span> eres?
-            <span class="agregado">¿</span><span class="original">cual</span><span class="regulado">cuál</span>es tu patria?</br>
-         <br>—Las influencias tiranas</br>
-         <br>de mi estrella, me formaron</br>
-         <br><span class="original">móstruo</span><span class="regulado">monstruo</span>de especies tan raras,</br>
-         <br>que gozo de heroica estirpe</br>
-         <br>allá en las dotes del alma</br>
-         <br>siendo el desprecio del mundo.</br></div>
+            <span class="agregado">¿</span><span class="original">cual</span><span class="regulado">cuál</span>es tu patria?
+         <br>—Las influencias tiranas
+         <br>de mi estrella, me formaron
+         <br><span class="original">móstruo</span><span class="regulado">monstruo</span>de especies tan raras,
+         <br>que gozo de heroica estirpe
+         <br>allá en las dotes del alma
+         <br>siendo el desprecio del mundo.</div>
       
       <div class="epigrafe">CAÑIZARES<span class="sic">.</span></div>
       
@@ -57,13 +55,13 @@
       
       
       
-      <div class="quote"><br>Una morena me mata</br>
-         <br>tened de mi<span class="original">compasion</span><span class="regulado">compasión</span>,</br>
-         <br>pues no la tiene la ingrata</br>
+      <div class="quote"><br>Una morena me mata
+         <br>tened de mi<span class="original">compasion</span><span class="regulado">compasión</span>,
+         <br>pues no la tiene la ingrata
          <br>que adora mi corazón 
             <div class="autora">Sólo el que haya estado en la isla de Cuba y oído estas canciones en boca de la gente
                del pueblo, puede formar idea del dejo inimitable y la gracia singular con que dan
-               alma y atractivo a las ideas más triviales y al lenguaje menos escogido.</div>.</br></div>
+               alma y atractivo a las ideas más triviales y al lenguaje menos escogido.</div>.</div>
       
       
       
@@ -416,7 +414,3 @@
       Enrique metió espuelas <span class="original">á</span><span class="regulado">a</span> su caballo, que atravesando la<span class="original">taranquela</span><span class="regulado">talanquera</span> partió <span class="original">á</span><span class="regulado">a</span> galope. El esclavo le siguió con la vista hasta que le <span class="original">vió</span><span class="regulado">vio</span> llegar delante de la puerta de la casa blanca. Entonces clavó los ojos en el cielo,
       <span class="original">dió</span><span class="regulado">dio</span> un profundo gemido, y se dejó caer sobre un ribazo.
       
-      
-      
-      </body>
-</html>
