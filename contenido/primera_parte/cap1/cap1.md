@@ -15,10 +15,10 @@
       
       
       <div class="epigrafe"><br>—<span class="agregado">¿</span><span class="original">Quien</span><span class="regulado">Quién</span> eres?
-            <span class="agregado">¿</span><span class="original">cual</span><span class="regulado">cuál</span>es tu patria?
+            <span class="agregado">¿</span><span class="original">cual</span><span class="regulado">cuál</span> es tu patria?
          <br>—Las influencias tiranas
          <br>de mi estrella, me formaron
-         <br><span class="original">móstruo</span><span class="regulado">monstruo</span>de especies tan raras,
+         <br><span class="original">móstruo</span><span class="regulado">monstruo</span> de especies tan raras,
          <br>que gozo de heroica estirpe
          <br>allá en las dotes del alma
          <br>siendo el desprecio del mundo.</div>
@@ -27,13 +27,13 @@
       
       
       
-      Veinte años hace, poco <span class="original">mas</span><span class="regulado">más</span> <span class="original">ó</span><span class="regulado">o</span> menos, que al declinar una tarde del mes de junio un <span class="original">jóven</span><span class="regulado">joven</span> de hermosa presencia atravesaba <span class="original">á</span><span class="regulado">a</span> caballo los campos pintorescos que riega el Tínima, y <span class="original">dirigia</span><span class="regulado">dirigía</span> <span class="original">á</span><span class="regulado">a</span> paso corto su brioso<span class="original">alazan</span><span class="regulado">alazán</span>por la senda conocida en el <span class="original">pais</span><span class="regulado">país</span> con el nombre de camino de Cubitas, por conducir <span class="original">á</span><span class="regulado">a</span> las aldeas de este nombre, llamadas <span class="original">tambien</span><span class="regulado">también</span> tierras rojas. Hallábase el <span class="original">jóven</span><span class="regulado">joven</span> de quien hablamos <span class="original">á</span><span class="regulado">a</span> distancia de cuatro leguas de Cubitas, de donde al parecer <span class="original">venia</span><span class="regulado">venía</span>, y <span class="original">á</span><span class="regulado">a</span> tres de la ciudad de <span class="original">Puerto-Príncipe</span><span class="regulado">Puerto Príncipe</span> capital de la provincia central de Cuba en aquella época, como al presente, pero
+      Veinte años hace, poco <span class="original">mas</span><span class="regulado">más</span> <span class="original">ó</span><span class="regulado">o</span> menos, que al declinar una tarde del mes de junio un <span class="original">jóven</span><span class="regulado">joven</span> de hermosa presencia atravesaba <span class="original">á</span><span class="regulado">a</span> caballo los campos pintorescos que riega el Tínima, y <span class="original">dirigia</span><span class="regulado">dirigía</span> <span class="original">á</span><span class="regulado">a</span> paso corto su brioso <span class="original">alazan</span><span class="regulado">alazán</span> por la senda conocida en el <span class="original">pais</span><span class="regulado">país</span> con el nombre de camino de Cubitas, por conducir <span class="original">á</span><span class="regulado">a</span> las aldeas de este nombre, llamadas <span class="original">tambien</span><span class="regulado">también</span> tierras rojas. Hallábase el <span class="original">jóven</span><span class="regulado">joven</span> de quien hablamos <span class="original">á</span><span class="regulado">a</span> distancia de cuatro leguas de Cubitas, de donde al parecer <span class="original">venia</span><span class="regulado">venía</span>, y <span class="original">á</span><span class="regulado">a</span> tres de la ciudad de <span class="original">Puerto-Príncipe</span><span class="regulado">Puerto Príncipe</span> capital de la provincia central de Cuba en aquella época, como al presente, pero
       que <span class="original">hacia</span><span class="regulado">hacía</span> entonces muy pocos años había dejado su humilde dictado de villa.
       
       
       
       
-      Fuese efecto de poco conocimiento del camino que<span class="original">seguia</span><span class="regulado">seguía</span>, fuese por complacencia de contemplar detenidamente los <span class="original">paisages</span><span class="regulado">paisajes</span> que se <span class="original">ofrecian</span><span class="regulado">ofrecían</span> <span class="original">á</span><span class="regulado">a</span> su visita, el <span class="original">viagero</span><span class="regulado">viajero</span> acortaba cada vez <span class="original">mas</span><span class="regulado">más</span> el paso de su caballo y le paraba <span class="original">á</span><span class="regulado">a</span> trechos como para examinar los sitios por donde pasaba. A la verdad, era harto probable
+      Fuese efecto de poco conocimiento del camino que <span class="original">seguia</span><span class="regulado">seguía</span>, fuese por complacencia de contemplar detenidamente los <span class="original">paisages</span><span class="regulado">paisajes</span> que se <span class="original">ofrecian</span><span class="regulado">ofrecían</span> <span class="original">á</span><span class="regulado">a</span> su visita, el <span class="original">viagero</span><span class="regulado">viajero</span> acortaba cada vez <span class="original">mas</span><span class="regulado">más</span> el paso de su caballo y le paraba <span class="original">á</span><span class="regulado">a</span> trechos como para examinar los sitios por donde pasaba. A la verdad, era harto probable
       que sus repetidas detenciones <span class="original">solo</span><span class="regulado">sólo</span> tuvieran por objeto administrar <span class="original">mas</span><span class="regulado">más</span> <span class="original">á</span><span class="regulado">a</span> su sabor los campos fertilísimos de aquel <span class="original">pais</span><span class="regulado">país</span> privilegiado, y que <span class="original">debian</span><span class="regulado">debían</span> tener mayor atractivo para él si como lo indicaban su tez blanca y sonrosada, sus
       ojos azules<span class="agregado">,</span> y su cabello de oro, <span class="original">habia</span><span class="regulado">había</span> venido al mundo en una <span class="original">region</span><span class="regulado">región</span> del Norte La autora utiliza la mayúscula para referenciar el norte global. Así, el viajero vendría
       siendo ciudadano europeo..
@@ -50,13 +50,13 @@
       
       
       El <span class="original">viagero</span><span class="regulado">viajero</span> <span class="original">despues</span><span class="regulado">después</span> de haber atravesado <span class="original">sabánas</span><span class="regulado">sabanas</span> inmensas, donde la vista se pierde en los dos horizontes que forman el cielo y la
-      tierra, y prados coronados de palmas y gigantescas <span class="original">céibas</span><span class="regulado">ceibas</span>, tocaba por fin en un cercado, anuncio de propiedad. En efecto, divisábase <span class="original">á</span><span class="regulado">a</span> lo lejos la fachada blanca de una casa de campo, y al momento el <span class="original">jóven</span><span class="regulado">joven</span> dirigió su caballo <span class="original">hácia</span><span class="regulado">hacia</span> ella; pero lo detuvo repentinamente y apostándole <span class="original">á</span><span class="regulado">a</span> la vereda del camino pareció dispuesto <span class="original">á</span><span class="regulado">a</span> esperar <span class="original">á</span><span class="regulado">a</span> un paisano del campo que se adelantaba <span class="original">á</span><span class="regulado">a</span> pie<span class="original">hácia</span><span class="regulado">hacia</span> aquel sitio, con mesurado paso, y cantando una <span class="original">cancion</span><span class="regulado">canción</span> del <span class="original">pais</span><span class="regulado">país</span> cuya última estrofa pudo entender perfectamente el <span class="original">viagero</span><span class="regulado">viajero</span>.
+      tierra, y prados coronados de palmas y gigantescas <span class="original">céibas</span><span class="regulado">ceibas</span>, tocaba por fin en un cercado, anuncio de propiedad. En efecto, divisábase <span class="original">á</span><span class="regulado">a</span> lo lejos la fachada blanca de una casa de campo, y al momento el <span class="original">jóven</span><span class="regulado">joven</span> dirigió su caballo <span class="original">hácia</span><span class="regulado">hacia</span> ella; pero lo detuvo repentinamente y apostándole <span class="original">á</span><span class="regulado">a</span> la vereda del camino pareció dispuesto <span class="original">á</span><span class="regulado">a</span> esperar <span class="original">á</span><span class="regulado">a</span> un paisano del campo que se adelantaba <span class="original">á</span><span class="regulado">a</span> pie <span class="original">hácia</span><span class="regulado">hacia</span> aquel sitio, con mesurado paso, y cantando una <span class="original">cancion</span><span class="regulado">canción</span> del <span class="original">pais</span><span class="regulado">país</span> cuya última estrofa pudo entender perfectamente el <span class="original">viagero</span><span class="regulado">viajero</span>.
       
       
       
       
       <div class="quote"><br>Una morena me mata
-         <br>tened de mi<span class="original">compasion</span><span class="regulado">compasión</span>,
+         <br>tened de mi <span class="original">compasion</span><span class="regulado">compasión</span>,
          <br>pues no la tiene la ingrata
          <br>que adora mi corazón 
             <div class="autora">Sólo el que haya estado en la isla de Cuba y oído estas canciones en boca de la gente
@@ -99,20 +99,20 @@
       en toda la provincia de Puerto Príncipe, que se reduce <span class="original">á</span><span class="regulado">a</span> un <span class="original">pantalon</span><span class="regulado">pantalón</span> de <span class="original">cotin</span><span class="regulado">cotín</span> de anchas rayas azules, y una camisa de hilo, <span class="original">tambien</span><span class="regulado">también</span> listada, ceñida <span class="original">á</span><span class="regulado">a</span> la cintura por una correa de la que pende un ancho machete, y cubierta la cabeza
       con un sombrero de <span class="original">Yaréy</span><span class="regulado">yarey</span> 
       <div class="autora">El <span class="original">Yaréy</span><span class="regulado">yarey</span> es un arbusto mediano, de la familia de los guanos, de cuyas hojas largas y lustrosas
-         se hacen en el <span class="original">pais</span><span class="regulado">país</span> tejidos bastante finos para sombreros, cestos, etc.Vestimenta típica de un labriego del siglo XIX:</div> bastante <span class="original">alicaido</span><span class="regulado">alicaído</span>:El atuendo del labriego en este caso parece reflejar también el estado anímico de
+         se hacen en el <span class="original">pais</span><span class="regulado">país</span> tejidos bastante finos para sombreros, cestos, etc.Vestimenta típica de un labriego del siglo XIX:</div> bastante <span class="original">alicaido</span><span class="regulado">alicaído</span>: El atuendo del labriego en este caso parece reflejar también el estado anímico de
       Sab: desanimado, decaído. traje demasiado ligero pero cómodo y casi necesario en un clima abrasador.
       
       
       
       
-      El <span class="original">estrangero</span><span class="regulado">extranjero</span> rompió el silencio y hablando en castellano con una pureza y facilidad que <span class="original">parecian</span><span class="regulado">parecían</span>desmentir su fisonomía septentrionalAquí la autora vuelve a hacer hincapié en el origen del extranjero, relacionando su
+      El <span class="original">estrangero</span><span class="regulado">extranjero</span> rompió el silencio y hablando en castellano con una pureza y facilidad que <span class="original">parecian</span><span class="regulado">parecían</span> desmentir su fisonomía septentrionalAquí la autora vuelve a hacer hincapié en el origen del extranjero, relacionando su
       fisionomía con el Norte que ella misma escribe en mayúscula. También parece adelantarnos
       desde el uso del lenguaje que el extranjero no es, de hecho, europeo, sino cubano.<span class="agregado">,</span> dijo al labriego<span class="original">.</span><span class="regulado">:</span>
       
       
       
       
-      <div class="dialogo">—Buen amigo,<span class="agregado">¿</span>tendrá<span class="abreviatura">vd.</span><span class="expansion">usted</span> la bondad de decirme si la casa que desde<span class="original">aqui</span><span class="regulado">aquí</span> se divisa es la del<span class="original">Ingenio</span> <span class="regulado">ingenio</span><div class="autora">Ingenio es el nombre que se <span class="original">dá</span><span class="regulado">da</span> <span class="original">á</span><span class="regulado">a</span> la máquina que sirve para demoler la caña <span class="original">mas</span><span class="regulado">más</span><span class="original">tambien</span><span class="regulado">también</span> se designan <span class="original">comunmente</span><span class="regulado">comúnmente</span> con este nombre las mismas fincas en que existen dichas máquinas.</div> de Bellavista, perteneciente <span class="original">á</span><span class="regulado">a</span> don Carlos de B...<span class="agregado">?</span>
+      <div class="dialogo">—Buen amigo,<span class="agregado">¿</span>tendrá <span class="abreviatura">vd.</span><span class="expansion">usted</span> la bondad de decirme si la casa que desde<span class="original">aqui</span><span class="regulado">aquí</span> se divisa es la del<span class="original">Ingenio</span> <span class="regulado">ingenio</span><div class="autora">Ingenio es el nombre que se <span class="original">dá</span><span class="regulado">da</span> <span class="original">á</span><span class="regulado">a</span> la máquina que sirve para demoler la caña <span class="original">mas</span><span class="regulado">más</span><span class="original">tambien</span><span class="regulado">también</span> se designan <span class="original">comunmente</span><span class="regulado">comúnmente</span> con este nombre las mismas fincas en que existen dichas máquinas.</div> de Bellavista, perteneciente <span class="original">á</span><span class="regulado">a</span> don Carlos de B...<span class="agregado">?</span>
          </div>
       
       
@@ -129,12 +129,12 @@
       
       
       
-      <div class="dialogo">—Sin duda es <span class="abreviatura">vd.</span><span class="expansion">usted</span>vecino de ese caballero y podrá decirme si ha llegado ya <span class="original">á</span><span class="regulado">a</span> su ingenio con su familia.</div>
+      <div class="dialogo">—Sin duda es <span class="abreviatura">vd.</span><span class="expansion">usted</span> vecino de ese caballero y podrá decirme si ha llegado ya <span class="original">á</span><span class="regulado">a</span> su ingenio con su familia.</div>
       
       
       
       
-      <div class="dialogo">—Desde esta mañana <span class="original">estan</span><span class="regulado">están</span> <span class="original">aqui</span><span class="regulado">aquí</span>los dueños, y puedo servir <span class="original">á</span><span class="regulado">a</span> <span class="abreviatura">vd.</span><span class="expansion">usted</span> de <span class="original">guia</span><span class="regulado">guía</span> si quiere visitarlos.</div>
+      <div class="dialogo">—Desde esta mañana <span class="original">estan</span><span class="regulado">están</span> <span class="original">aqui</span><span class="regulado">aquí</span> los dueños, y puedo servir <span class="original">á</span><span class="regulado">a</span> <span class="abreviatura">vd.</span><span class="expansion">usted</span> de <span class="original">guia</span><span class="regulado">guía</span> si quiere visitarlos.</div>
       
       
       
@@ -148,13 +148,12 @@
       <div class="dialogo">—
          <span class="agregado">¿</span>Dice
          <span class="abreviatura">vd.</span>
-         <span class="expansion">usted</span>
-         , que pertenecen al señor de B... todas estas tierras?</div>
+         <span class="expansion">usted</span>, que pertenecen al señor de B... todas estas tierras?</div>
       
       
       
       
-      <div class="dialogo">—<span class="original">Si</span><span class="regulado">Sí</span>señor.</div>
+      <div class="dialogo">—<span class="original">Si</span><span class="regulado">Sí</span> señor.</div>
       
       
       
@@ -171,7 +170,7 @@
       
       
       
-      <div class="dialogo">—Tiempos ha habido, <span class="original">segun</span><span class="regulado">según</span> he llegado a entender</div>dijo el labriego deteniéndose para echar una ojeada <span class="original">hácia</span><span class="regulado">hacia</span> las tierras objeto de <span class="original">conversacion</span><span class="regulado">conversación</span><div class="dialogo">—, en que este ingenio daba <span class="original">á</span><span class="regulado">a</span> su dueño doce mil arrobas de <span class="original">azucar</span><span class="regulado">azúcar</span> cada año, porque entonces<span class="original">mas</span><span class="regulado">más</span> de cien negros trabajaban en sus cañaverales; pero los tiempos han variado y el propietario
+      <div class="dialogo">—Tiempos ha habido, <span class="original">segun</span><span class="regulado">según</span> he llegado a entender</div>dijo el labriego deteniéndose para echar una ojeada <span class="original">hácia</span><span class="regulado">hacia</span> las tierras objeto de <span class="original">conversacion</span><span class="regulado">conversación</span><div class="dialogo">—, en que este ingenio daba <span class="original">á</span><span class="regulado">a</span> su dueño doce mil arrobas de <span class="original">azucar</span><span class="regulado">azúcar</span> cada año, porque entonces <span class="original">mas</span><span class="regulado">más</span> de cien negros trabajaban en sus cañaverales; pero los tiempos han variado y el propietario
          actual de Bellavista no tiene en él sino cincuenta negros, ni <span class="original">escede</span><span class="regulado">excede</span> su <span class="original">Zafra</span><span class="regulado">zafra</span><div class="autora">Zafra es el producto total de la molienda, que puede llamarse la cosecha de <span class="original">azucar</span><span class="regulado">azúcar</span>.</div> de seis mil panes de <span class="original">azucar</span><span class="regulado">azúcar</span>.</div>
       
       
@@ -200,7 +199,7 @@
             vivo.</div>.</div>
       
       
-      El labriego se detuvo de repente como si echase de ver que <span class="original">habia</span><span class="regulado">había</span>hablado demasiado, y bajando los ojos<span class="agregado">,</span>y dejando asomar <span class="original">á</span><span class="regulado">a</span> sus labios una sonrisa melancólica, <span class="original">añadio</span><span class="regulado">añadió</span> con prontitud:
+      El labriego se detuvo de repente como si echase de ver que <span class="original">habia</span><span class="regulado">había</span> hablado demasiado, y bajando los ojos<span class="agregado">,</span>y dejando asomar <span class="original">á</span><span class="regulado">a</span> sus labios una sonrisa melancólica, <span class="original">añadio</span><span class="regulado">añadió</span> con prontitud:
       
       
       
