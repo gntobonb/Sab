@@ -1,7 +1,7 @@
 
    <head>
       <link rel="stylesheet" href="cap1.css"/>
-      <title></title>
+      <title>Sab</title>
    </head>
    <body>
       
@@ -15,12 +15,11 @@
    <h2>
       Gertrudis Gómez de Avellaneda
    </h2>
-   <h6>
+   <h4>
       <i>
          Editado por Génesis Tobón
       </i>
-   </h6>
+   </h4>
    
        
       </body>
-</html>
