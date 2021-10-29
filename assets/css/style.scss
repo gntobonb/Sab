@@ -35,6 +35,8 @@ h4 {
 .regulado {
     text-decoration-line:underline;
     text-decoration-color:#6D8DBE;
+    position: relative;
+    display: inline-block;
 }
 
 .agregado {
@@ -49,6 +51,19 @@ h4 {
 
 .original {
     visibility:hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+  /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+.regulado:hover .original {
+  visibility: visible;
 }
 
 .autora {
