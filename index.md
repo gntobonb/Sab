@@ -10,15 +10,11 @@
       
       
       <h1>
-         <i>Sab</i>
+         <i>Sab</i>: lectura digital y académica
       </h1>
-   
       <h2>
-         lectura digital y académica
-      </h2>
-      <h3>
          Gertrudis Gómez de Avellaneda
-      </h3>
+      </h2>
    
       <h4>
          <i>
