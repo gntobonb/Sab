@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><html xmlns:tei="http://www.tei-c.org/ns/1.0">
    <head>
-      <link rel="stylesheet" href="cap1.css"></link>
+      <link rel="stylesheet" href="cap1.css"/>
       <title>Sab</title>
    </head>
    <body>
@@ -18,12 +17,12 @@
       
       <div class="epigrafe"><br>—<span class="agregado">¿</span><span class="original">Quien</span><span class="regulado">Quién</span> eres?
             <span class="agregado">¿</span><span class="original">cual</span><span class="regulado">cuál</span>es tu patria?
-         <br>—Las influencias tiranas</br>
-         <br>de mi estrella, me formaron</br>
-         <br><span class="original">móstruo</span><span class="regulado">monstruo</span>de especies tan raras,</br>
-         <br>que gozo de heroica estirpe</br>
-         <br>allá en las dotes del alma</br>
-         <br>siendo el desprecio del mundo.</br></div>
+         <br>—Las influencias tiranas
+         <br>de mi estrella, me formaron
+         <br><span class="original">móstruo</span><span class="regulado">monstruo</span>de especies tan raras,
+         <br>que gozo de heroica estirpe
+         <br>allá en las dotes del alma
+         <br>siendo el desprecio del mundo.</div>
       
       <div class="epigrafe">CAÑIZARES<span class="sic">.</span></div>
       
@@ -57,12 +56,13 @@
       
       
       
-      <div class="quote"><br>Una morena me mata</br>
-         <br>tened de mi<span class="original">compasion</span><span class="regulado">compasión</span>,</br>
-         <br>pues no la tiene la ingrata</br>
-         <br>que adora mi corazón Sólo el que haya estado en la isla de Cuba y oído estas canciones en boca de la gente
-            del pueblo, puede formar idea del dejo inimitable y la gracia singular con que dan
-            alma y atractivo a las ideas más triviales y al lenguaje menos escogido..</br></div>
+      <div class="quote"><br>Una morena me mata
+         <br>tened de mi<span class="original">compasion</span><span class="regulado">compasión</span>,
+         <br>pues no la tiene la ingrata
+         <br>que adora mi corazón 
+            <div class="autora">Sólo el que haya estado en la isla de Cuba y oído estas canciones en boca de la gente
+               del pueblo, puede formar idea del dejo inimitable y la gracia singular con que dan
+               alma y atractivo a las ideas más triviales y al lenguaje menos escogido.</div>.</div>
       
       
       
@@ -98,8 +98,9 @@
       
       El traje de este hombre no se separaba en nada del que usan generalmente los labriegos
       en toda la provincia de Puerto Príncipe, que se reduce <span class="original">á</span><span class="regulado">a</span> un <span class="original">pantalon</span><span class="regulado">pantalón</span> de <span class="original">cotin</span><span class="regulado">cotín</span> de anchas rayas azules, y una camisa de hilo, <span class="original">tambien</span><span class="regulado">también</span> listada, ceñida <span class="original">á</span><span class="regulado">a</span> la cintura por una correa de la que pende un ancho machete, y cubierta la cabeza
-      con un sombrero de <span class="original">Yaréy</span><span class="regulado">yarey</span> El <span class="original">Yaréy</span><span class="regulado">yarey</span> es un arbusto mediano, de la familia de los guanos, de cuyas hojas largas y lustrosas
-      se hacen en el <span class="original">pais</span><span class="regulado">país</span> tejidos bastante finos para sombreros, cestos, etc.Vestimenta típica de un labriego del siglo XIX: bastante <span class="original">alicaido</span><span class="regulado">alicaído</span>:El atuendo del labriego en este caso parece reflejar también el estado anímico de
+      con un sombrero de <span class="original">Yaréy</span><span class="regulado">yarey</span> 
+      <div class="autora">El <span class="original">Yaréy</span><span class="regulado">yarey</span> es un arbusto mediano, de la familia de los guanos, de cuyas hojas largas y lustrosas
+         se hacen en el <span class="original">pais</span><span class="regulado">país</span> tejidos bastante finos para sombreros, cestos, etc.Vestimenta típica de un labriego del siglo XIX:</div> bastante <span class="original">alicaido</span><span class="regulado">alicaído</span>:El atuendo del labriego en este caso parece reflejar también el estado anímico de
       Sab: desanimado, decaído. traje demasiado ligero pero cómodo y casi necesario en un clima abrasador.
       
       
