@@ -30,8 +30,8 @@
       </p>
    
       <p>
-         A continuación, el índice de la novela: <br>
-      
+         A continuación, el índice de la novela: 
+         </br>      
          <a href="contenido/tabla_de_contenidos.md">Índice</a>
       
       </p>
