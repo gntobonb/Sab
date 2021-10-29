@@ -1,7 +1,7 @@
 
    <head>
       <link rel="stylesheet" href="cap1.css"/>
-      <title>Sab</title>
+      <title></title>
    </head>
    <body>
       
