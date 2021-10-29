@@ -7,7 +7,7 @@
   <h2>Índice</h2>
     <dl>
   <dt><a href="contenido/nota.md">Nota al lector</a></dt>
-  <dt><a href="contenido/primera_parte.md">Primera parte</a></dt>
+  <dt>Primera parte</dt>
       <dd>
             <ul>
                   <li><a href="https://gntobonb.github.io/Sab/contenido/primera_parte/cap1/cap1.html">Capítulo 1</a></li>
@@ -23,7 +23,7 @@
             <li>Capítulo 11</li>
             </ul>
         </dd>
-  <dt><a href="contenido/segunda_parte.md">Segunda parte</a></dt>
+  <dt>Segunda parte</dt>
       <dd>
             <ul>
             <li>Capítulo 1</li>
@@ -33,7 +33,7 @@
             <li>Capítulo 5</li>
             </ul>
         </dd>
-  <dt><a href="contenido/conclusion.md">Conclusión</a></dt>
+  <dt>Conclusión</dt>
     </dl>
     
     
