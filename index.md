@@ -32,7 +32,7 @@
       <p>
          A continuación, el índice de la novela: 
          <br>      
-         <a href="contenido/tabla_de_contenidos.html">Índice</a>
+         <a href="https://gntobonb.github.io/Sab/contenido/tabla_de_contenidos.md">Índice</a>
       
       </p>
    
