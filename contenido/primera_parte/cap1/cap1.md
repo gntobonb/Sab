@@ -17,7 +17,7 @@
       
       
       <div class="epigrafe"><br>—<span class="agregado">¿</span><span class="original">Quien</span><span class="regulado">Quién</span> eres?
-            <span class="agregado">¿</span><span class="original">cual</span><span class="regulado">cuál</span>es tu patria?</br>
+            <span class="agregado">¿</span><span class="original">cual</span><span class="regulado">cuál</span>es tu patria?
          <br>—Las influencias tiranas</br>
          <br>de mi estrella, me formaron</br>
          <br><span class="original">móstruo</span><span class="regulado">monstruo</span>de especies tan raras,</br>
