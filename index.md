@@ -12,9 +12,9 @@
       <h1>
          <i>Sab</i>: lectura digital y académica
       </h1>
-      <h2>
+      <h3>
          Gertrudis Gómez de Avellaneda
-      </h2>
+      </h3>
    
       <h4>
          <i>
