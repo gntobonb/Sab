@@ -1,7 +1,7 @@
 
    <head>
       <link rel="stylesheet" href="cap1.css"/>
-      <title></title>
+      <title>Sab</title>
    </head>
    <body>
       
@@ -9,7 +9,10 @@
       
       
       
-      <h1>Capítulo I</h1>
+      <h1>Sab: lectura digital y académica</h1>
+      <h2>Gertrudis Gómez de Avellaneda</h2>
+   <h6>Editado por Génesis Tobón</h6>
+   
       
       
       
