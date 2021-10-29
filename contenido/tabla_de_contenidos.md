@@ -10,7 +10,7 @@
   <dt><a href="contenido/primera_parte.md">Primera parte</a></dt>
       <dd>
             <ul>
-                  <li><a href="https://gntobonb.github.io/Sab/contenido/primera_parte/cap1.md">Capítulo 1</a></li>
+                  <li><a href="https://gntobonb.github.io/Sab/contenido/primera_parte/cap1/cap1.md">Capítulo 1</a></li>
             <li>Capítulo 2</li>
             <li>Capítulo 3</li>
             <li>Capítulo 4</li>
