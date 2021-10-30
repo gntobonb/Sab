@@ -8,6 +8,11 @@ body {
     font-size:15pt;
 }
 
+img {
+    width:25px;
+    height:25px;
+}
+
 a {
     color:#6D8DBE;
 }
