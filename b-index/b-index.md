@@ -5,7 +5,7 @@
    </head>
    <body>
       
-      <a href="index.html"><img src="img/modo-claro.png"/></a>
+      <a href="Sab/index.html"><img src="img/modo-claro"/></a>
       
       
       
