@@ -11,19 +11,19 @@
       
       
       
-     <h1>Capítulo I</h1>
+      <h1>Capítulo I</h1>
       
       
       
       <div class="epigrafe"><br>—<span class="agregado">¿</span><div class="regulado"><span class="original">Quien</span>Quién</div> eres?
-            <span class="agregado">¿</span><div class="regulado"><span class="original">cual</span>cuál</div> es tu patria?</br>
-         <br>—Las influencias tiranas</br>
-         <br>de mi estrella, me formaron</br>
+            <span class="agregado">¿</span><div class="regulado"><span class="original">cual</span>cuál</div> es tu patria?
+         <br>—Las influencias tiranas
+         <br>de mi estrella, me formaron
          <br>
-            <div class="regulado"><span class="original">móstruo</span>monstruo</div> de especies tan raras,</br>
-         <br>que gozo de heroica estirpe</br>
-         <br>allá en las dotes del alma</br>
-         <br>siendo el desprecio del mundo.</br></div>
+            <div class="regulado"><span class="original">móstruo</span>monstruo</div> de especies tan raras,
+         <br>que gozo de heroica estirpe
+         <br>allá en las dotes del alma
+         <br>siendo el desprecio del mundo.</div>
       
       <div class="epigrafe">CAÑIZARES<span class="sic">.</span></div>
       
@@ -67,8 +67,9 @@
       <div class="regulado"><span class="original">debian</span>debían</div> tener mayor atractivo para él si como lo indicaban su tez blanca y sonrosada, sus
       ojos azules<span class="agregado">,</span> y su cabello de oro, 
       <div class="regulado"><span class="original">habia</span>había</div> venido al mundo en una 
-      <div class="regulado"><span class="original">region</span>región</div> del Norte La autora utiliza la mayúscula para referenciar el norte global. Así, el viajero vendría
-      siendo ciudadano europeo..
+      <div class="regulado"><span class="original">region</span>región</div> del Norte 
+      <div class="critico">La autora utiliza la mayúscula para referenciar el norte global. Así, el viajero vendría
+         siendo ciudadano europeo.</div>.
       
       
       
@@ -113,14 +114,14 @@
       
       
       
-      <div class="quote"><br>Una morena me mata</br>
+      <div class="quote"><br>Una morena me mata
          <br>tened de mi 
-            <div class="regulado"><span class="original">compasion</span>compasión</div>,</br>
-         <br>pues no la tiene la ingrata</br>
+            <div class="regulado"><span class="original">compasion</span>compasión</div>,
+         <br>pues no la tiene la ingrata
          <br>que adora mi corazón 
             <div class="autora">Sólo el que haya estado en la isla de Cuba y oído estas canciones en boca de la gente
                del pueblo, puede formar idea del dejo inimitable y la gracia singular con que dan
-               alma y atractivo a las ideas más triviales y al lenguaje menos escogido.</div>.</br></div>
+               alma y atractivo a las ideas más triviales y al lenguaje menos escogido.</div>.</div>
       
       
       
@@ -140,9 +141,10 @@
       <div class="regulado"><span class="original">recien</span>recién</div> llegado un 
       <div class="regulado"><span class="original">jóven</span>joven</div> de alta estatura y regulares proporciones, pero de una fisionomía particular. No
       
-      <div class="regulado"><span class="original">pareciera</span>parecía</div> un criollo blanco Desde la primera descripción de Sab, la autora muestra una preocupación por esclarecer
-      su "raza". Esto es herencia del concepto colonial "pureza de raza" que dictaba a las
-      personas comprobar su linaje racial para legitimar sus propios derechos., tampoco era negro ni 
+      <div class="regulado"><span class="original">pareciera</span>parecía</div> un criollo blanco 
+      <div class="critico">Desde la primera descripción de Sab, la autora muestra una preocupación por esclarecer
+         su "raza". Esto es herencia del concepto colonial "pureza de raza" que dictaba a las
+         personas comprobar su linaje racial para legitimar sus propios derechos.</div>, tampoco era negro ni 
       <div class="regulado"><span class="original">podia</span>podía</div> creérsele descendiente de los primeros habitadores de las Antillas. Su rostro presentaba
       un compuesto singular en que se descubría el cruzamiento de dos razas diversas, y
       en que se amalgamaban, por decirlo 
@@ -156,10 +158,11 @@
       <div class="regulado"><span class="original">veia</span>veía</div> medio cubierta con mechones desiguales de un pelo negro y lustroso como las alas
       del cuervo; su nariz era aguileña pero sus labios gruesos y amoratados denotaban su
       procedencia 
-      <div class="regulado"><span class="original">Africana</span>africana</div>Esta es la primera descripción física del personaje principal de la novela. Sab es
-      presentado casi como un personaje blanco. Si no fuera por sus labios gruesos y amoratados
-      que delatan, casi como si fuera un crimen, su herencia africana, el personaje sería
-      reconocido como un blanco un tanto "amarillento", pero ante todo blanco.. 
+      <div class="regulado"><span class="original">Africana</span>africana</div>
+      <div class="critico">Esta es la primera descripción física del personaje principal de la novela. Sab es
+         presentado casi como un personaje blanco. Si no fuera por sus labios gruesos y amoratados
+         que delatan, casi como si fuera un crimen, su herencia africana, el personaje sería
+         reconocido como un blanco un tanto "amarillento", pero ante todo blanco.</div>. 
       <div class="regulado"><span class="original">Tenia</span>Tenía</div> la barba un poco prominente y triangular, los ojos negros grandes, rasgados bajo
       cejas horizontales, brillando en ellos el fuego de la primera juventud, no obstante
       que surcaban su rostro algunas ligeras arrugas. El conjunto de estos rasgos 
@@ -183,17 +186,19 @@
          <div class="regulado"><span class="original">Yaréy</span>yarey</div> es un arbusto mediano, de la familia de los guanos, de cuyas hojas largas y lustrosas
          se hacen en el 
          <div class="regulado"><span class="original">pais</span>país</div> tejidos bastante finos para sombreros, cestos, etc.Vestimenta típica de un labriego del siglo XIX:</div> bastante 
-      <div class="regulado"><span class="original">alicaido</span>alicaído</div>:El atuendo del labriego en este caso parece reflejar también el estado anímico de
-      Sab: desanimado, decaído. traje demasiado ligero pero cómodo y casi necesario en un clima abrasador.
+      <div class="regulado"><span class="original">alicaido</span>alicaído</div>:
+      <div class="critico">El atuendo del labriego en este caso parece reflejar también el estado anímico de
+         Sab: desanimado, decaído.</div> traje demasiado ligero pero cómodo y casi necesario en un clima abrasador.
       
       
       
       
       El 
       <div class="regulado"><span class="original">estrangero</span>extranjero</div> rompió el silencio y hablando en castellano con una pureza y facilidad que 
-      <div class="regulado"><span class="original">parecian</span>parecían</div> desmentir su fisonomía septentrionalAquí la autora vuelve a hacer hincapié en el origen del extranjero, relacionando su
-      fisionomía con el Norte que ella misma escribe en mayúscula. También parece adelantarnos
-      desde el uso del lenguaje que el extranjero no es, de hecho, europeo, sino cubano.<span class="agregado">,</span> dijo al labriego
+      <div class="regulado"><span class="original">parecian</span>parecían</div> desmentir su fisonomía septentrional
+      <div class="critico">Aquí la autora vuelve a hacer hincapié en el origen del extranjero, relacionando su
+         fisionomía con el Norte que ella misma escribe en mayúscula. También parece adelantarnos
+         desde el uso del lenguaje que el extranjero no es, de hecho, europeo, sino cubano.</div><span class="agregado">,</span> dijo al labriego
       <div class="regulado"><span class="original">.</span>:</div>
       
       
@@ -746,3 +751,4 @@
       <div class="regulado"><span class="original">vió</span>vio</div> llegar delante de la puerta de la casa blanca. Entonces clavó los ojos en el cielo,
       
       <div class="regulado"><span class="original">dió</span>dio</div> un profundo gemido, y se dejó caer sobre un ribazo.
+    
