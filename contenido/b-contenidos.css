@@ -1,1 +1,25 @@
 
+---
+---
+
+@import "jekyll-theme-minimal";
+
+body {
+    background-color:#010101;
+    font-size:15pt;
+}
+a {
+    color:#6D8DBE;
+}
+h1 {
+    color:#EEDBA8;
+}
+h3 {
+    color:#EEDBA8;
+}
+h4 {
+    color:#EEDBA8;
+}
+dt {
+    color:#EEDBA8;
+}
