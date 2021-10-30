@@ -228,7 +228,7 @@
       
       
       <div class="dialogo">—Sin duda es 
-         <div class="regulado"><span class="abreviatura">vd.</span><span class="expansion">usted</span></div>vecino de ese caballero y podrá decirme si ha llegado ya 
+         <div class="regulado"><span class="abreviatura">vd.</span><span class="expansion">usted</span></div> vecino de ese caballero y podrá decirme si ha llegado ya 
          <div class="regulado"><span class="original">á</span>a</div> su ingenio con su familia.</div>
       
       
