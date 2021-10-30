@@ -12,6 +12,14 @@ a {
     color:#6D8DBE;
 }
 
+img {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+}
+img:hover {
+  opacity: 0.5;
+}
 
 
 h1 {
