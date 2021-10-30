@@ -46,7 +46,6 @@ dt {
 
 .regulado .original {
   visibility: hidden;
-  position: relative;
   width: auto;
   top:100%;
   margin-left:auto;
@@ -77,18 +76,14 @@ dt {
 
 .regulado .abreviatura {
   visibility: hidden;
-  width: 120px;
-  background-color:#6D8DBE;
-  color:#010101;
+  width: auto;
+  top:100%;
+  margin-left:auto;
+  background-color: #6D8DBE;
+  color: #010101;
   text-align: center;
   border-radius: 6px;
-  padding: 5px 0;
-  position: absolute;
-  width: 120px;
-  top: 100%;
-  left: 50%;
-  margin-left: -60px; 
-  z-index: 1;
+  padding: 10px 10px;
 }
 
 .regulado:hover .abreviatura {
