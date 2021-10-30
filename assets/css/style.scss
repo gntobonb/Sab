@@ -45,7 +45,7 @@ dt {
   text-decoration-color:#6D8DBE;
 }
 
-.regulado .original {
+.original {
   visibility: hidden;
   width: 120px;
   background-color:#EEDBA8;
@@ -53,8 +53,6 @@ dt {
   text-align: center;
   border-radius: 6px;
   padding: 5px 0;
-
-  /* Position the tooltip */
   position: absolute;
   width: 120px;
   top: 100%;
