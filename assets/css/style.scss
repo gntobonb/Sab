@@ -41,11 +41,10 @@ dt {
   position:relative;
   display:inline-block;
   text-decoration:underline;
-  text-decoration-line:underline;
   text-decoration-color:#6D8DBE;
 }
 
-.original {
+.regulado .original {
   visibility: hidden;
   width: 120px;
   background-color:#EEDBA8;
@@ -55,10 +54,21 @@ dt {
   padding: 5px 0;
   position: absolute;
   width: 120px;
-  top: 100%;
+  top: 150%;
   left: 50%;
   margin-left: -60px; 
   z-index: 1;
+}
+
+.regulado .original::after {
+    content:"";
+    position:absolute;
+    border-width:5px;
+    border-style:solid;
+    margin-left:-5px;
+    top:100%;
+    left:50%;
+    border-color:#EEDBA8 transparent transparent transparent;
 }
 
 .regulado:hover .original {
