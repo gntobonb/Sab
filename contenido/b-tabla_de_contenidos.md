@@ -4,7 +4,7 @@
       <title>Sab</title>
    </head>
    <body>
-      
+      <a href="https://gntobonb.github.io/Sab/contenido/tabla_de_contenidos.html"><img src="modo-claro.png"/></a>
   <h2>Índice</h2>
     <dl>
   <dt>Nota al lector</dt>
