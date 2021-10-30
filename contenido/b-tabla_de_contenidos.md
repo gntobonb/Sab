@@ -11,7 +11,7 @@
   <dt>Primera parte</dt>
       <dd>
             <ul>
-                  <li><a href="https://gntobonb.github.io/Sab/contenido/primera_parte/cap1/cap1.html">Capítulo 1</a></li>
+                  <li><a href="https://gntobonb.github.io/Sab/contenido/primera_parte/cap1/b-cap1.html">Capítulo 1</a></li>
             <li>Capítulo 2</li>
             <li>Capítulo 3</li>
             <li>Capítulo 4</li>
