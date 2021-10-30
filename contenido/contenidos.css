@@ -9,14 +9,7 @@ body {
     font-size:15pt;
 }
 
-img {
-    position: fixed;
-    right: 0px;
-    top: 0px;
-}
 
-img:hover {
-  opacity: 0.5;
 }
 
 a {
@@ -37,5 +30,5 @@ h4 {
 }
 
 dt {
-    color:#EEDBA8;
+    color:#010101;
 }
