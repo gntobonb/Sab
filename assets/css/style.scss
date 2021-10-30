@@ -37,41 +37,32 @@ dt {
     text-align:center;
 }
 
-.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black;
+.regulado {
+  position:relative;
+  display:inline-block;
+  text-decoration:underline;
+  text-decoration-line:underline;
+  text-decoration-color:#6D8DBE;
 }
 
-.tooltip .tiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    border-radius: 3px;
-    padding: 6px 0;
-    position: absolute;
-    z-index: 1;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-    margin-left: -60px;
-    bottom: 150%;
-    left: 50%;
+.original {
+  visibility: hidden;
+  width: 120px;
+  background-color:#EEDBA8;
+  color:#010101;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  width: 120px;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px; 
+  z-index: 1;
 }
 
-.tooltip .tiptext::after {
-    content: "";
-    position: absolute;
-    border-width: 5px;
-    border-style: solid;
-    margin-left: -5px;
-    top: 100%;
-    left: 50%;
-    border-color: #2E2E2E transparent transparent transparent;
-}
-
-.tooltip:hover .tiptext {
-    visibility: visible;
+.regulado:hover .original {
+  visibility: visible;
 }
 
 .agregado {
