@@ -1,9 +1,9 @@
 <head>
-      <link rel="stylesheet" href="cap1.css"/>
+      <link rel="stylesheet" href="contenidos.css"/>
       <title>Sab</title>
    </head>
    <body>
-      
+      <a href="https://gntobonb.github.io/Sab/contenido/b-tabla_de_contenidos.html"><img src="modo-oscuro.png"/></a>
   <h2>Índice</h2>
     <dl>
   <dt>Nota al lector</dt>
