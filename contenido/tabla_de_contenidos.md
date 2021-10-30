@@ -6,7 +6,7 @@
       
   <h2>Índice</h2>
     <dl>
-  <dt><a href="contenido/nota.md">Nota al lector</a></dt>
+  <dt>Nota al lector</dt>
   <dt>Primera parte</dt>
       <dd>
             <ul>
