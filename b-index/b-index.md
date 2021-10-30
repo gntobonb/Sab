@@ -5,7 +5,6 @@
    </head>
    <body>
       
-      <a href="Sab/index.html"><img src="img/modo-claro"/></a>
       
       
       
