@@ -14,11 +14,11 @@
       
       
       
-      <div class="epigrafe"><br>—<span class="agregado">¿</span><span class="original">Quien</span><span class="regulado">Quién</span> eres?
-            <span class="agregado">¿</span><span class="original">cual</span><span class="regulado">cuál</span> es tu patria?
+      <div class="epigrafe"><br>—<span class="agregado">¿</span><div class="original">Quien</div><span class="regulado">Quién</span> eres?
+            <span class="agregado">¿</span><div class="original">cual</div><span class="regulado">cuál</span> es tu patria?
          <br>—Las influencias tiranas
          <br>de mi estrella, me formaron
-         <br><span class="original">móstruo</span><span class="regulado">monstruo</span> de especies tan raras,
+         <br><div class="original">móstruo</div><span class="regulado">monstruo</span> de especies tan raras,
          <br>que gozo de heroica estirpe
          <br>allá en las dotes del alma
          <br>siendo el desprecio del mundo.</div>
