@@ -4,7 +4,7 @@
       <title>Sab</title>
    </head>
    <body>
-      <a href="b-index/b-index.md"><img src="img/modo-oscuro.png"/></a>
+      <a href="b-index/b-index.html"><img src="img/modo-oscuro.png"/></a>
       
       
       
