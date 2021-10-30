@@ -4,7 +4,7 @@
    </head>
    <body>
       
-      
+    <a href="https://gntobonb.github.io/Sab/contenido/primera_parte/cap1/cap1.html"><img src="modo-claro.png"/></a>  
       
       
       
