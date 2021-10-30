@@ -9,9 +9,13 @@ body {
 }
 
 img {
-    width:25px;
-    height:25px;
-    align:right;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+}
+
+img:hover {
+  opacity: 0.5;
 }
 
 a {
