@@ -8,6 +8,18 @@ body {
     background-color:#010101;
     font-size:15pt;
 }
+
+img {
+    position:sticky;
+    right: 0px;
+    top: 0px;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+
+
 a {
     color:#6D8DBE;
 }
