@@ -410,6 +410,6 @@
       
       
       
-      Enrique metió espuelas <span class="original">á</span><span class="regulado">a</span> su caballo, que atravesando la<span class="original">taranquela</span><span class="regulado">talanquera</span> partió <span class="original">á</span><span class="regulado">a</span> galope. El esclavo le siguió con la vista hasta que le <span class="original">vió</span><span class="regulado">vio</span> llegar delante de la puerta de la casa blanca. Entonces clavó los ojos en el cielo,
+      Enrique metió espuelas <span class="original">á</span><span class="regulado">a</span> su caballo, que atravesando la <span class="original">taranquela</span><span class="regulado">talanquera</span> partió <span class="original">á</span><span class="regulado">a</span> galope. El esclavo le siguió con la vista hasta que le <span class="original">vió</span><span class="regulado">vio</span> llegar delante de la puerta de la casa blanca. Entonces clavó los ojos en el cielo,
       <span class="original">dió</span><span class="regulado">dio</span> un profundo gemido, y se dejó caer sobre un ribazo.
       
