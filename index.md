@@ -23,7 +23,7 @@
       </h4>
    
       <p>
-         Este es un proyecto de grado realizado para la Maestría en Humanidadesde Digitales de la Universidad de los Andes.
+         Este es un proyecto de grado realizado para la Maestría en Humanidades Digitales de la Universidad de los Andes.
       <p>
          
       <p>
