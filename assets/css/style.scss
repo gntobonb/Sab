@@ -74,6 +74,26 @@ dt {
     text-decoration-color:#6D8DBE;
 }
 
+.regulado .abreviatura {
+  visibility: hidden;
+  width: 120px;
+  background-color:#6D8DBE;
+  color:#010101;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  width: 120px;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px; 
+  z-index: 1;
+}
+
+.regulado:hover .abreviatura {
+  visibility: visible;
+}
+
 .autora {
     visibility:hidden;
 }
@@ -90,6 +110,3 @@ dt {
     visibility:hidden;
 }
 
-.abreviatura {
-    visibility:hidden;
-}
