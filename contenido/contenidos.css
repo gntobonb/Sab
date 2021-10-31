@@ -18,8 +18,9 @@ img {
     right: 0px;
     top: 0px;
 }
+
 img:hover {
-  opacity: 0.5;
+    opacity: 0.5;
 }
 
 h1 {
