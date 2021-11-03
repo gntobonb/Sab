@@ -1,12 +1,11 @@
 
    <head>
-      <link rel="stylesheet" href="css/index.css"/>
+      <link rel="stylesheet" href="css/b-index.css"/>
       <title>Sab</title>
    </head>
    <body>
-      <a href="https://gntobonb.github.io/Sab/b-index.html"><img src="img/modo-oscuro.png"/></a>
 
-
+      <a href="https://gntobonb.github.io/Sab/index.html"><img src="img/modo-claro.png"/></a>
 
 
       <h1>
@@ -33,6 +32,6 @@
       <p>
          A continuación, el índice de la novela:
          <br>
-         <a href="https://gntobonb.github.io/Sab/tabla_de_contenidos.html">Índice</a>
+         <a href="https://gntobonb.github.io/Sab/b-tabla_de_contenidos.html">Índice</a>
 
       </p>
