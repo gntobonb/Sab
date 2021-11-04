@@ -1,6 +1,6 @@
 
 body {
-    background-color:#010101;
+    background-color:black;
     font-size:15pt;
 }
 
@@ -8,17 +8,14 @@ a {
     color:#6D8DBE;
 }
 
-
 img {
-    position: fixed;
-    right: 0px;
-    top: 0px;
+    position:fixed;
+    right:0px;
+    top:0px;
 }
 img:hover {
-  opacity: 0.5;
+  opacity:0.5;
 }
-
-
 
 h1 {
     color:#EEDBA8;
@@ -63,7 +60,7 @@ dt {
   position: absolute;
   width: auto;
   top: 100%;
-  margin-left: auto; 
+  margin-left: auto;
   z-index: 1;
 }
 
@@ -99,4 +96,26 @@ dt {
 
 .abreviatura {
     visibility:hidden;
+}
+
+.anterior {
+  margin-left: 90%;
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+.anterior:hover {
+  background-color: #6D8DBE;
+  color: black;
+}
+
+.siguiente {
+  background-color: #EEDBA8;
+  color: black;
+}
+
+.siguiente:hover {
+  background-color: #6D8DBE;
+  color: black;
 }

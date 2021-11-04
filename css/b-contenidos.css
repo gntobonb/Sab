@@ -5,18 +5,18 @@
 @import "jekyll-theme-minimal";
 
 body {
-    background-color:#010101;
+    background-color:black;
     font-size:15pt;
 }
 
 img {
-    position: fixed;
-    right: 0px;
-    top: 0px;
+    position:fixed;
+    right:0px;
+    top:0px;
 }
 
 img:hover {
-    opacity: 0.5;
+    opacity:0.5;
 }
 
 
