@@ -5,7 +5,7 @@
    </head>
    <body>
 
-      <a href="https://gntobonb.github.io/Sab/index.html"><img src="img/modo-claro.png"/></a>
+      <a href="https://gntobonb.github.io/Sab/index.html"><img src="css/img/modo-claro.png"/></a>
 
 
       <h1>

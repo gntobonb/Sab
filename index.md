@@ -4,7 +4,7 @@
       <title>Sab</title>
    </head>
    <body>
-      <a href="https://gntobonb.github.io/Sab/b-index.html"><img src="img/modo-oscuro.png"/></a>
+      <a href="https://gntobonb.github.io/Sab/b-index.html"><img src="css/img/modo-oscuro.png"/></a>
 
 
 

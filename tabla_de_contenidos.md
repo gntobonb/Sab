@@ -3,7 +3,7 @@
       <title>Sab</title>
    </head>
    <body>
-      <a href="https://gntobonb.github.io/Sab/b-tabla_de_contenidos.html"><img src="modo-oscuro.png"/></a>
+      <a href="https://gntobonb.github.io/Sab/b-tabla_de_contenidos.html"><img src="css/img/modo-oscuro.png"/></a>
   <h2>Índice</h2>
     <dl>
   <dt>Nota al lector</dt>

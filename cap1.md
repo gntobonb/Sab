@@ -7,7 +7,7 @@
 
 
 
-      <a href="https://gntobonb.github.io/Sab/b-cap1.html"><img src="modo-oscuro.png"/></a>
+      <a href="https://gntobonb.github.io/Sab/b-cap1.html"><img src="css/img/modo-oscuro.png"/></a>
 
 
 

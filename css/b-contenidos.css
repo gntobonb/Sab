@@ -1,0 +1,39 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+body {
+  background-color:#010101;
+  font-size:15pt;
+}
+
+img {
+  position:fixed;
+  right:0px;
+  top:0px;
+}
+
+img:hover {
+  opacity:0.5;
+}
+
+a {
+  color:#6D8DBE;
+}
+
+h1 {
+  color:#FAEFD3;
+}
+
+h3 {
+  color:#FAEFD3;
+}
+
+h4 {
+  color:#FAEFD3;
+}
+
+dt {
+  color:#FAEFD3;
+}
