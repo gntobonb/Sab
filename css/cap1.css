@@ -18,18 +18,10 @@ img:hover {
 }
 
 a {
-  color:#6D8DBE;
+  color:#3A5989;
 }
 
-h1 {
-  color:#EEDBA8;
-}
-
-h3 {
-  color:#494949;
-}
-
-h4 {
+h2 {
   color:#494949;
 }
 
@@ -56,7 +48,7 @@ h4 {
   color:#010101;
   text-align: center;
   border-radius: 6px;
-  padding: 5px 5px;
+  padding: 2px 5px;
   position: absolute;
   width: auto;
   top: 100%;
