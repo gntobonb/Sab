@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color:#5D79A3;
+  color:#3A5989;
 }
 
 img {
@@ -21,18 +21,10 @@ img:hover {
   opacity:0.5;
 }
 
-h1 {
-  color:#010101;
-}
-
-h3 {
-  color:#010101;
-}
-
-h4 {
-  color:#010101;
+h2 {
+  color:#494949;
 }
 
 dt {
-  color:#010101;
+  color:#494949;
 }
