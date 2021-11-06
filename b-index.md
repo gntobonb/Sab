@@ -31,7 +31,7 @@
 
       <p>
          A continuación, el índice de la novela:
-         <br>
+         <br><br>
          <a href="https://gntobonb.github.io/Sab/b-tabla_de_contenidos.html" class="siguiente">Índice</a>
 
       </p>
