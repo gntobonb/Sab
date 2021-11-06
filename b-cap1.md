@@ -750,5 +750,4 @@
 
     <br><br><br>
       <a href="https://gntobonb.github.io/Sab/b-tabla_de_contenidos.html" class="anterior">Índice</a>
-      <br><br><br>
       <a href="https://gntobonb.github.io/Sab/b-index.html" class="siguiente">Capítulo II</a>
