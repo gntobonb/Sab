@@ -12,6 +12,19 @@ a {
   color:#6D8DBE;
 }
 
+.anterior {
+    border-style:solid;
+    border-width:2px;
+    border-color:#6D8DBE;
+    border-radius:5px;
+    padding: 5px;
+}
+
+.anterior:hover {
+    background-color: #6D8DBE;
+    color:#010101;
+}
+
 .siguiente {
     text-align:right;
     border-style:solid;
