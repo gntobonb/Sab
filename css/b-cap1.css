@@ -40,17 +40,12 @@ a {
     border-width:2px;
     border-color:#6D8DBE;
     border-radius:5px;
-    padding: 5px 10px;
-    background-color:#6D8DBE;
-    color:#010101;
-    position: fixed;
-    right:20px;
+    padding: 5px;
 }
 
 .siguiente:hover {
-    background-color: #010101;
-    color:#6D8DBE;
-    border-color:#6D8DBE;
+    background-color: #6D8DBE;
+    color:#010101;
 }
 
 h1 {
