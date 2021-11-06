@@ -753,5 +753,5 @@
       <div class="regulado"><span class="original">dió</span>dio</div> un profundo gemido, y se dejó caer sobre un ribazo.
 
       <br><br><br>
-        <a href="https://gntobonb.github.io/Sab/b-tabla_de_contenidos.html" class="anterior">Índice</a>
-        <a href="https://gntobonb.github.io/Sab/b-index.html" class="siguiente">Capítulo II</a>
+        <a href="https://gntobonb.github.io/Sab/tabla_de_contenidos.html" class="anterior">Índice</a>
+        <a href="https://gntobonb.github.io/Sab/cap2.html" class="siguiente">Capítulo II</a>
