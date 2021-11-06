@@ -751,7 +751,6 @@
       <div class="regulado"><span class="original">vió</span>vio</div> llegar delante de la puerta de la casa blanca. Entonces clavó los ojos en el cielo,
 
       <div class="regulado"><span class="original">dió</span>dio</div> un profundo gemido, y se dejó caer sobre un ribazo.
-
-      <br><br><br>
+      <br><br>
         <a href="https://gntobonb.github.io/Sab/tabla_de_contenidos.html" class="anterior">Índice</a>
         <a href="https://gntobonb.github.io/Sab/cap2.html" class="siguiente">Capítulo II</a>
