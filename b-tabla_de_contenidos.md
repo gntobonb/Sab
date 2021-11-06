@@ -36,7 +36,6 @@
         </dd>
   <dt>Conclusión</dt>
     </dl>
-<br><br>
       <a href="https://gntobonb.github.io/Sab/b-index.html" class="anterior">Inicio</a>
 
 
