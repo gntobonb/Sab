@@ -12,6 +12,20 @@ a {
   color:#6D8DBE;
 }
 
+.siguiente {
+    text-align:right;
+    border-style:solid;
+    border-width:2px;
+    border-color:#6D8DBE;
+    border-radius:5px;
+    padding: 5px;
+}
+
+.siguiente:hover {
+    background-color: #6D8DBE;
+    color:#010101;
+}
+
 img {
   position:fixed;
   right:0px;
