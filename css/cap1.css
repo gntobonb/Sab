@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
+
 
 body {
   font-size:15pt;
