@@ -18,7 +18,9 @@ img:hover {
 }
 
 input[type=checkbox] ~ span {display:none;}
-input[type=checkbox]:checked ~ span {display:inline;}
+input[type=checkbox]:checked ~ span {display:inline;
+font-style:italic;
+font-size:12pt;}
 input[type=checkbox] {display:none;}
 
 a {
@@ -50,6 +52,8 @@ a {
 .siguiente:hover {
     background-color: #6D8DBE;
     color:#010101;
+    position:fixed;
+    right:15px;
 }
 
 h2 {
