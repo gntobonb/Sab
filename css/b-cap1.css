@@ -18,6 +18,16 @@ img:hover {
   opacity:0.5;
 }
 
+sup {
+    text-decoration:underline;
+}
+
+input[type=checkbox] ~ span {display:none;}
+input[type=checkbox]:checked ~ span {display:inline;
+font-style:italic;
+font-size:12pt;}
+input[type=checkbox] {display:none;}
+
 a {
   color:#6D8DBE;
 }
@@ -52,6 +62,11 @@ a {
 h1 {
   color:#EEDBA8;
 }
+
+h2 {
+  color:#EEDBA8;
+}
+
 
 h3 {
   color:#EEDBA8;
@@ -102,8 +117,30 @@ h4 {
 }
 
 .expansion {
-    text-decoration-line:underline;
-    text-decoration-color:#6D8DBE;
+  position:relative;
+  display:inline-block;
+  text-decoration:underline;
+  text-decoration-line:underline;
+  text-decoration-color:#6D8DBE;
+}
+
+.abreviatura {
+  visibility: hidden;
+  width: 120px;
+  background-color:#6D8DBE;
+  color:#010101;
+  text-align: center;
+  border-radius: 6px;
+  padding: 2px 5px;
+  position: absolute;
+  width: auto;
+  top: 100%;
+  margin-left: auto;
+  z-index: 1;
+}
+
+.expansion:hover .abreviatura {
+  visibility: visible;
 }
 
 .autora {
@@ -119,9 +156,5 @@ h4 {
 }
 
 .sic {
-    visibility:hidden;
-}
-
-.abreviatura {
     visibility:hidden;
 }
