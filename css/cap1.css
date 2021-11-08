@@ -17,6 +17,10 @@ img:hover {
   opacity:0.5;
 }
 
+input[type=checkbox] ~ span {display:none;}
+input[type=checkbox]:checked ~ span {display:inline;}
+input[type=checkbox] {display:none;}
+
 a {
   color:#3A5989;
 }

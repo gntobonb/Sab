@@ -14,7 +14,9 @@
       <h1>Capítulo I</h1>
 
 
-
+      <input type="checkbox" id="cb1" /><label for="cb1"><sup>1</sup></label>
+  <span><br><br> This is the citation.<br><br></span>
+  
       <div class="epigrafe"><br>—<span class="agregado">¿</span><div class="regulado"><span class="original">Quien</span>Quién</div> eres?
             <span class="agregado">¿</span><div class="regulado"><span class="original">cual</span>cuál</div> es tu patria?
          <br>—Las influencias tiranas
