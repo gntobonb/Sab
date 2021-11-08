@@ -18,8 +18,7 @@ img:hover {
 }
 
 sup {
-    text-decoration: underline overline;
-    text-decoration-color:#6D8DBE;
+    text-decoration:underline;
 }
 
 input[type=checkbox] ~ span {display:none;}
@@ -103,10 +102,34 @@ h2 {
     text-decoration-color:#6D8DBE;
 }
 
+
 .expansion {
-    text-decoration-line:underline;
-    text-decoration-color:#6D8DBE;
+  position:relative;
+  display:inline-block;
+  text-decoration:underline;
+  text-decoration-line:underline;
+  text-decoration-color:#6D8DBE;
 }
+
+.abreviatura {
+  visibility: hidden;
+  width: 120px;
+  background-color:#6D8DBE;
+  color:#010101;
+  text-align: center;
+  border-radius: 6px;
+  padding: 2px 5px;
+  position: absolute;
+  width: auto;
+  top: 100%;
+  margin-left: auto;
+  z-index: 1;
+}
+
+.expansion:hover .abreviatura {
+  visibility: visible;
+}
+
 
 .autora {
     visibility:hidden;
@@ -121,9 +144,5 @@ h2 {
 }
 
 .sic {
-    visibility:hidden;
-}
-
-.abreviatura {
     visibility:hidden;
 }
