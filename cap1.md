@@ -67,7 +67,7 @@
       <div class="regulado"><span class="original">debian</span>debían</div> tener mayor atractivo para él si como lo indicaban su tez blanca y sonrosada, sus
       ojos azules<span class="agregado">,</span> y su cabello de oro,
       <div class="regulado"><span class="original">habia</span>había</div> venido al mundo en una
-      <div class="regulado"><span class="original">region</span>región</div> del Norte <input type="checkbox" id="cb1"/><label for="cb1"><sup>1</sup></label><span>La autora utiliza la mayúscula para referenciar el norte global. Así, el viajero vendría
+      <div class="regulado"><span class="original">region</span>región</div> del Norte <input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>La autora utiliza la mayúscula para referenciar el norte global. Así, el viajero vendría
          siendo ciudadano europeo.</span>.
 
 
@@ -82,13 +82,11 @@
       <div class="regulado"><span class="original">parecia</span>parecía</div> acoger con regocijo la brisa apacible de la tarde, que comenzaba
       <div class="regulado"><span class="original">á</span>a</div> gritar las copas frondosas de los árboles agostados por el calor del
       <div class="regulado"><span class="original">dia</span>día</div>. Bandadas de golondrinas se cruzaban en todas direcciones buscando su albergue nocturno,
-      y el verde papagayo con sus franjas de oro y de grana, el cao
-      <div class="expo">Ave pequeña parecida al cuervo endémica de Cuba.</div> de un negro nítido y brillante, el carpintero real de férrea lengua y matizado plumaje,
+      y el verde papagayo con sus franjas de oro y de grana, el cao <input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Ave pequeña parecida al cuervo endémica de Cuba.</span> de un negro nítido y brillante, el carpintero real de férrea lengua y matizado plumaje,
       la alegre
       <div class="regulado"><span class="original">guacamalla</span>guacamaya</div>, el
       <div class="regulado"><span class="original">lijero</span>ligero</div>
-      <div class="regulado"><span class="original">tomeguin</span>tomeguín</div> la tornasolada mariposa
-      <div class="expo">En este caso se refiere a la Passerina ciris, o azulillo sietecolores</div> y otra infinidad de aves indígenas, posaban en las ramas del tamarindo y del mango
+      <div class="regulado"><span class="original">tomeguin</span>tomeguín</div> la tornasolada mariposa <input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>En este caso se refiere a la Passerina ciris, o azulillo sietecolores</span> y otra infinidad de aves indígenas, posaban en las ramas del tamarindo y del mango
       aromático, rizando sus variadas plumas como para recoger en ellas el soplo consolador delaura.
 
 
@@ -119,10 +117,9 @@
          <br>tened de mi
             <div class="regulado"><span class="original">compasion</span>compasión</div>,
          <br>pues no la tiene la ingrata
-         <br>que adora mi corazón
-            <div class="autora">Sólo el que haya estado en la isla de Cuba y oído estas canciones en boca de la gente
+         <br>que adora mi corazón <input type="checkbox" id="cb"/><label for="cb"><sup>+</sup></label><span>Sólo el que haya estado en la isla de Cuba y oído estas canciones en boca de la gente
                del pueblo, puede formar idea del dejo inimitable y la gracia singular con que dan
-               alma y atractivo a las ideas más triviales y al lenguaje menos escogido.</div>.</div>
+               alma y atractivo a las ideas más triviales y al lenguaje menos escogido.</span>.</div>
 
 
 
@@ -142,7 +139,7 @@
       <div class="regulado"><span class="original">recien</span>recién</div> llegado un
       <div class="regulado"><span class="original">jóven</span>joven</div> de alta estatura y regulares proporciones, pero de una fisionomía particular. No
 
-      <div class="regulado"><span class="original">pareciera</span>parecía</div> un criollo blanco <input type="checkbox" id="cb1"/><label for="cb1"><sup>2</sup></label><span>Desde la primera descripción de Sab, la autora muestra una preocupación por esclarecer
+      <div class="regulado"><span class="original">pareciera</span>parecía</div> un criollo blanco <input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Desde la primera descripción de Sab, la autora muestra una preocupación por esclarecer
          su "raza". Esto es herencia del concepto colonial "pureza de raza" que dictaba a las
          personas comprobar su linaje racial para legitimar sus propios derechos.</span>, tampoco era negro ni
       <div class="regulado"><span class="original">podia</span>podía</div> creérsele descendiente de los primeros habitadores de las Antillas. Su rostro presentaba
@@ -158,7 +155,7 @@
       <div class="regulado"><span class="original">veia</span>veía</div> medio cubierta con mechones desiguales de un pelo negro y lustroso como las alas
       del cuervo; su nariz era aguileña pero sus labios gruesos y amoratados denotaban su
       procedencia
-      <div class="regulado"><span class="original">Africana</span>africana</div><input type="checkbox" id="cb1"/><label for="cb1"><sup>3</sup></label><span>Esta es la primera descripción física del personaje principal de la novela. Sab es
+      <div class="regulado"><span class="original">Africana</span>africana</div><input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Esta es la primera descripción física del personaje principal de la novela. Sab es
          presentado casi como un personaje blanco. Si no fuera por sus labios gruesos y amoratados
          que delatan, casi como si fuera un crimen, su herencia africana, el personaje sería
          reconocido como un blanco un tanto "amarillento", pero ante todo blanco.</span>.
@@ -180,14 +177,11 @@
       <div class="regulado"><span class="original">tambien</span>también</div> listada, ceñida
       <div class="regulado"><span class="original">á</span>a</div> la cintura por una correa de la que pende un ancho machete, y cubierta la cabeza
       con un sombrero de
-      <div class="regulado"><span class="original">Yaréy</span>yarey</div>
-      <div class="autora">El
+      <div class="regulado"><span class="original">Yaréy</span>yarey</div> <input type="checkbox" id="cb"/><label for="cb"><sup>+</sup></label><span>El
          <div class="regulado"><span class="original">Yaréy</span>yarey</div> es un arbusto mediano, de la familia de los guanos, de cuyas hojas largas y lustrosas
          se hacen en el
-         <div class="regulado"><span class="original">pais</span>país</div> tejidos bastante finos para sombreros, cestos, etc.
-         <div class="expo">Vestimenta típica de un labriego del siglo XIX:</div>
-      </div> bastante
-      <div class="regulado"><span class="original">alicaido</span>alicaído</div>:<input type="checkbox" id="cb1"/><label for="cb1"><sup>4</sup></label><span>El atuendo del labriego en este caso parece reflejar también el estado anímico de
+         <div class="regulado"><span class="original">pais</span>país</div> tejidos bastante finos para sombreros, cestos, etc.<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Vestimenta típica de un labriego del siglo XIX:</span></span> bastante
+      <div class="regulado"><span class="original">alicaido</span>alicaído</div>:<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>El atuendo del labriego en este caso parece reflejar también el estado anímico de
          Sab: desanimado, decaído.</span> traje demasiado ligero pero cómodo y casi necesario en un clima abrasador.
 
 
@@ -195,7 +189,7 @@
 
       El
       <div class="regulado"><span class="original">estrangero</span>extranjero</div> rompió el silencio y hablando en castellano con una pureza y facilidad que
-      <div class="regulado"><span class="original">parecian</span>parecían</div> desmentir su fisonomía septentrional<input type="checkbox" id="cb1"/><label for="cb1"><sup>5</sup></label><span>Aquí la autora vuelve a hacer hincapié en el origen del extranjero, relacionando su
+      <div class="regulado"><span class="original">parecian</span>parecían</div> desmentir su fisonomía septentrional<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Aquí la autora vuelve a hacer hincapié en el origen del extranjero, relacionando su
          fisionomía con el Norte que ella misma escribe en mayúscula. También parece adelantarnos
          desde el uso del lenguaje que el extranjero no es, de hecho, europeo, sino cubano.</span><span class="agregado">,</span> dijo al labriego
       <div class="regulado"><span class="original">.</span>:</div>
@@ -206,13 +200,12 @@
       <div class="dialogo">—Buen amigo,<span class="agregado">¿</span>tendrá
          <div class="regulado"><span class="abreviatura">vd.</span><span class="expansion">usted</span></div> la bondad de decirme si la casa que desde
          <div class="regulado"><span class="original">aqui</span>aquí</div> se divisa es la del
-         <div class="regulado"><span class="original">Ingenio</span> ingenio</div>
-         <div class="autora">Ingenio es el nombre que se
+         <div class="regulado"><span class="original">Ingenio</span> ingenio</div><input type="checkbox" id="cb"/><label for="cb"><sup>+</sup></label><span>Ingenio es el nombre que se
             <div class="regulado"><span class="original">dá</span>da</div>
             <div class="regulado"><span class="original">á</span>a</div> la máquina que sirve para demoler la caña
             <div class="regulado"><span class="original">mas</span>más</div>
             <div class="regulado"><span class="original">tambien</span>también</div> se designan
-            <div class="regulado"><span class="original">comunmente</span>comúnmente</div> con este nombre las mismas fincas en que existen dichas máquinas.</div> de Bellavista, perteneciente
+            <div class="regulado"><span class="original">comunmente</span>comúnmente</div> con este nombre las mismas fincas en que existen dichas máquinas.</span> de Bellavista, perteneciente
          <div class="regulado"><span class="original">á</span>a</div> don Carlos de B...<span class="agregado">?</span>
          </div>
 
@@ -275,8 +268,7 @@
 
 
 
-      <div class="dialogo">—Parecen muy feraces
-         <div class="expo">fértiles</div>.</div>
+      <div class="dialogo">—Parecen muy feraces<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>fértiles</span>.</div>
 
 
 
@@ -299,9 +291,8 @@
          <div class="regulado"><span class="original">mas</span>más</div> de cien negros trabajaban en sus cañaverales; pero los tiempos han variado y el propietario
          actual de Bellavista no tiene en él sino cincuenta negros, ni
          <div class="regulado"><span class="original">escede</span>excede</div> su
-         <div class="regulado"><span class="original">Zafra</span>zafra</div>
-         <div class="autora">Zafra es el producto total de la molienda, que puede llamarse la cosecha de
-            <div class="regulado"><span class="original">azucar</span>azúcar</div>.</div> de seis mil panes de
+         <div class="regulado"><span class="original">Zafra</span>zafra</div><input type="checkbox" id="cb"/><label for="cb"><sup>+</sup></label><span>Zafra es el producto total de la molienda, que puede llamarse la cosecha de
+            <div class="regulado"><span class="original">azucar</span>azúcar</div>.</span> de seis mil panes de
          <div class="regulado"><span class="original">azucar</span>azúcar</div>.</div>
 
 
@@ -337,7 +328,7 @@
          <div class="regulado"><span class="original">alli</span>allí</div>... <span class="agregado">¡</span>Ah!
          <div class="regulado"><span class="original">si</span>sí</div>, es un cruel espectáculo la vista de la humanidad degradada, de hombres convertidos
          en brutos, que llevan en su frente la marca de la esclavitud y en su alma la
-         <div class="regulado"><span class="original">desesperacion</span>desesperación</div> del infierno<input type="checkbox" id="cb1"/><label for="cb1"><sup>6</sup></label><span>Esta es la primera descripción de la vida del esclavo. Sab comienza con una sentencia:
+         <div class="regulado"><span class="original">desesperacion</span>desesperación</div> del infierno<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Esta es la primera descripción de la vida del esclavo. Sab comienza con una sentencia:
             "es una vida terrible", para luego explayarse en una descripción detallada de la deshumanización
             del negro. Al esclavo se le condena una suerte adversa pues, al poner el adjetivo
             infeliz antes del sustantivo esclavo, se posiciona esta característica como definitoria
@@ -412,7 +403,7 @@
          <div class="regulado"><span class="original">á</span>a</div> sacrificarse por
          <div class="regulado"><span class="abreviatura">D.</span><span class="expansion">don</span></div> Carlos no puedo llamarme amigo suyo. Pertenezco,</div>prosiguió con sonrisa amarga,
       <div class="dialogo">—
-         <div class="regulado"><span class="original">á</span>a</div> aquella raza desventurada sin derechos de hombres... soy mulato y esclavo<input type="checkbox" id="cb1"/><label for="cb1"><sup>7</sup></label><span>Esta es la primera vez que Sab se presenta. Es interesante ver cómo se define primero
+         <div class="regulado"><span class="original">á</span>a</div> aquella raza desventurada sin derechos de hombres... soy mulato y esclavo<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Esta es la primera vez que Sab se presenta. Es interesante ver cómo se define primero
             por su raza y luego por su condición innata: mulato y esclavo, esto quiere decir que
             Sab se reconoce por la condición social impuesta a él antes que como un ser humano,
             recordemos que llama a los esclavos —y por consiguiente a sí mismo— una raza "sin
@@ -423,9 +414,7 @@
       <div class="dialogo">—¿Con que eres mulato?</div>dijo el
       <div class="regulado"><span class="original">estrangero</span>extranjero</div> tomando
       <div class="regulado"><span class="original">oida</span>oída</div> la
-      <div class="regulado"><span class="original">declaracion</span>declaración</div> de su interlocutor, el tono de despreciativa familiaridad que se usa con los esclavos
-      <div class="expo">El tono de despreciativa familiaridad hace referencia al tuteo.</div>
-      <div class="regulado"><span class="original">:</span>.</div>
+      <div class="regulado"><span class="original">declaracion</span>declaración</div> de su interlocutor, el tono de despreciativa familiaridad que se usa con los esclavos<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>El tono de despreciativa familiaridad hace referencia al tuteo.</span><div class="regulado"><span class="original">:</span>.</div>
       <div class="dialogo">—
          <div class="regulado"><span class="original">bien</span>Bien</div> lo sospeché al principio; pero tienes un aire tan poco
          <div class="regulado"><span class="original">comun</span>común</div> en tu clase, que luego mudé de pensamiento.</div>
@@ -442,16 +431,15 @@
       <div class="regulado"><span class="original">á</span>a</div> fijar los ojos en el
       <div class="regulado"><span class="original">estrangero</span>extranjero</div>
       <div class="dialogo">—, que
-         <div class="regulado"><span class="original">á</span>a</div> veces es libre y noble el alma, aunque el cuerpo sea esclavo y villano<input type="checkbox" id="cb1"/><label for="cb1"><sup>8</sup></label><span>Se equiparan los conceptos opuestos libre y esclavo, noble y villano, en una misma
+         <div class="regulado"><span class="original">á</span>a</div> veces es libre y noble el alma, aunque el cuerpo sea esclavo y villano<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Se equiparan los conceptos opuestos libre y esclavo, noble y villano, en una misma
             oración para provocar una antítesis que refleja la posición contradictoria del esclavo.
             Aunque también se está hablando en dos planos: el plano etéreo, del alma y el físico,
             del cuerpo. Parece que lo corpóreo y esclavo es maligno en contra posición a lo del
             alma que es puro y libre. Esto también implicaría que la condición de esclavo es impuesta
             al cuerpo y no al alma, la esclavitud es pues una cuestión terrenal.</span>. Pero ya es de noche y voy
          <div class="regulado"><span class="original">á</span>a</div> conducir
-         <div class="regulado"><span class="original">á</span>a</div> su merced
-         <div class="autora">Los esclavos de la isla de Cuba dan
-            <div class="regulado"><span class="original">á</span>a</div>los blancos es tratamiento de su merced.</div>
+         <div class="regulado"><span class="original">á</span>a</div> su merced<input type="checkbox" id="cb"/><label for="cb"><sup>+</sup></label><span>Los esclavos de la isla de Cuba dan
+            <div class="regulado"><span class="original">á</span>a</div>los blancos es tratamiento de su merced.</span>
          <div class="regulado"><span class="original">á</span>a</div> el ingenio ya próximo.</div>
 
 
@@ -478,12 +466,11 @@
 
 
 
-      <div class="dialogo">—Tengo el honor de ser su mayoral
-         <div class="autora">Mayoral se llama al director
+      <div class="dialogo">—Tengo el honor de ser su mayoral<input type="checkbox" id="cb"/><label for="cb"><sup>+</sup></label><span>Mayoral se llama al director
             <div class="regulado"><span class="original">ó</span>o</div> capataz que manda y preside el trabajo de los esclavos. Rarísima vez se confiere
 
             <div class="regulado"><span class="original">á</span>a</div> otro esclavo semejante cargo: cuando acontece, lo reputa este como el mayor honor
-            que puede dispensársele.</div> en este ingenio.</div>
+            que puede dispensársele.</span> en este ingenio.</div>
 
 
 
@@ -491,7 +478,7 @@
 
 
 
-      <div class="dialogo">—Mi nombre de bautismo es Bernabé, mi madre me llamó siempre Sab<input type="checkbox" id="cb1"/><label for="cb1"><sup>9</sup></label><span>Aquí se ejemplifica la identidad occidental impuesta a los africanos trasplantados
+      <div class="dialogo">—Mi nombre de bautismo es Bernabé, mi madre me llamó siempre Sab<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Aquí se ejemplifica la identidad occidental impuesta a los africanos trasplantados
             a América, desde el lenguaje se suplantan e intentan suprimir las raíces africanas,
             a tal punto que desde la piedra angular de la identidad de un sujeto, su nombre, se
             borran. Bernabé es un nombre cristiano impuesto al esclavo el día de su bautismo,
@@ -539,7 +526,7 @@
 
          <div class="regulado"><span class="original">á</span>a</div> la vida: porque mi madre amó. Una
          <div class="regulado"><span class="original">pasion</span>pasión</div> absoluta se encendió con toda su actividad en aquel
-         <div class="regulado"><span class="original">corazon</span>corazón</div> africano. A pesar de su color era mi madre hermosa<input type="checkbox" id="cb1"/><label for="cb1"><sup>10</sup></label><span>Al mencionar su color como un punto en contra a la belleza de su madre, Sab cae en
+         <div class="regulado"><span class="original">corazon</span>corazón</div> africano. A pesar de su color era mi madre hermosa<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Al mencionar su color como un punto en contra a la belleza de su madre, Sab cae en
             el "juego" del racismo, donde lo negro es feo y lo blanco bello.</span>, y sin duda tuvo correspondencia su
          <div class="regulado"><span class="original">pasion</span>pasión</div> pues salí al mundo por entonces. El nombre de mi padre
          <div class="regulado"><span class="original">fué</span>fue</div> un secreto que jamás quiso revelar.</div>
@@ -576,7 +563,7 @@
 
          <div class="regulado"><span class="original">Mas</span>Más</div> tarde fui el compañero de sus juegos y estudios, porque hija única por espacio de
          cinco años, su inocente
-         <div class="regulado"><span class="original">corazon</span>corazón</div> no media la distancia que nos separaba<input type="checkbox" id="cb1"/><label for="cb1"><sup>11</sup></label><span>Sab habla de la distancia racial y también social que lo separa de su amaCarlota.</span> y me
+         <div class="regulado"><span class="original">corazon</span>corazón</div> no media la distancia que nos separaba<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Sab habla de la distancia racial y también social que lo separa de su amaCarlota.</span> y me
          <div class="regulado"><span class="original">concedia</span>concedía</div> el cariño de un hermano. Con ella
          <div class="regulado"><span class="original">aprendi</span>aprendí
             </div>
@@ -626,9 +613,8 @@
 
 
 
-      <div class="dialogo">—<span class="agregado">¡</span>Mi libertad!... sin duda es cosa muy dulce la libertad... pero yo nací esclavo
-         <div class="expo">La esclavitud es una condición innata y heredada de la que al parecer no hay salida.
-            Resulta ser una cruel sentencia desde el nacimiento a raíz del color de piel.</div>: era esclavo desde el vientre de mi madre, y ya...</div>
+      <div class="dialogo">—<span class="agregado">¡</span>Mi libertad!... sin duda es cosa muy dulce la libertad... pero yo nací esclavo<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>La esclavitud es una condición innata y heredada de la que al parecer no hay salida.
+            Resulta ser una cruel sentencia desde el nacimiento a raíz del color de piel.</span>: era esclavo desde el vientre de mi madre, y ya...</div>
 
 
 
@@ -646,11 +632,10 @@
 
 
 
-      <div class="dialogo">—Desde mi infancia fui escriturado
-         <div class="expo">Los esclavos al ser una bien, una posesión, podían ser "escriturados", declarados,
+      <div class="dialogo">—Desde mi infancia fui escriturado<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Los esclavos al ser una bien, una posesión, podían ser "escriturados", declarados,
             legalmente propiedad de un privado. Aquí se ejemplifica vivamente la deshumanización
-            del esclavo al ser considerados objetos en vez de seres humanos.</div>
-         <div class="regulado"><span class="original">á</span>a</div> la señorita Carlota: soy esclavo suyo, y quiero vivir y morir en su servicio<input type="checkbox" id="cb1"/><label for="cb1"><sup>12</sup></label><span>Aquí Sab juega con el doble sentido de las palabras al ser doblemente esclavo: esclavo
+            del esclavo al ser considerados objetos en vez de seres humanos.</span>
+         <div class="regulado"><span class="original">á</span>a</div> la señorita Carlota: soy esclavo suyo, y quiero vivir y morir en su servicio<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Aquí Sab juega con el doble sentido de las palabras al ser doblemente esclavo: esclavo
             legal, su subordinado, y esclavo de su amor, preso de amar a quien no debe.</span>.</div>
 
 
@@ -703,8 +688,7 @@
 
 
       <div class="dialogo">—¡Enrique Otway! ese nombre lo mismo que vuestra fisonomía indican un origen
-         <div class="regulado"><span class="original">estrangero</span>extranjero</div>... Vos sois
-         <div class="autora">El tratamiento de vos no ha sido abolido enteramente en
+         <div class="regulado"><span class="original">estrangero</span>extranjero</div>... Vos sois<input type="checkbox" id="cb"/><label for="cb"><sup>+</sup></label><span>El tratamiento de vos no ha sido abolido enteramente en
             <div class="regulado"><span class="original">Puerto-Príncipe</span>Puerto Príncipe</div> hasta hace muy pocos años. Usábase muy
             <div class="regulado"><span class="original">comunmente</span>comúnmente</div> en vez de usted, y
             <div class="regulado"><span class="original">aun</span>aún</div> le empleaban algunas veces en sus conversaciones personas que se tuteaban. No
@@ -714,10 +698,10 @@
             <div class="regulado"><span class="original">á</span>a</div> Sab por disculparle la
             <div class="regulado"><span class="original">exaltacion</span>exaltación</div> con que hablaba en aquel momento, que no daba lugar
             <div class="regulado"><span class="original">á</span>a</div> la
-            <div class="regulado"><span class="original">reflexion</span>reflexión</div>.<input type="checkbox" id="cb1"/><label for="cb1"><sup>13</sup></label><span>Es interesante cómo la autora defiende la "insolencia" de Sab incluso en unanota explicativa.
+            <div class="regulado"><span class="original">reflexion</span>reflexión</div>.<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>Es interesante cómo la autora defiende la "insolencia" de Sab incluso en unanota explicativa.
                Esta defensa puede leerse como el inicio de la "revolución antiesclavista" pues le
                otorga al negro, a Sab, la posibilidad de igualarse al amo, al blanco Otway, desde
-               el uso del lenguaje.</span></div> pues, sin duda, el futuro esposo de la señorita de B... <span class="sic">!</span></div>
+               el uso del lenguaje.</span></span> pues, sin duda, el futuro esposo de la señorita de B... <span class="sic">!</span></div>
 
 
 
@@ -726,10 +710,8 @@
          no sea un mal para ti su
          <div class="regulado"><span class="original">union</span>unión</div> con tu señorita: lo mismo que ella, te prometo hacer menos dura tu triste
          <div class="regulado"><span class="original">condicion</span>condición</div> de esclavo. Pero he
-         <div class="regulado"><span class="original">aqui</span>aquí</div> la taranquela
-         <div class="autora">Son unos maderos gruesos colocados
-            <div class="regulado"><span class="original">á</span>a</div> cierta distancia, con travesaños para impedir la salida del ganado, etc.
-            <div class="expo">La autora quiso decir talanquera, vocablo que sí concuerda con la descripción dada.</div> </div>: ya no necesito
+         <div class="regulado"><span class="original">aqui</span>aquí</div> la taranquela<input type="checkbox" id="cb"/><label for="cb"><sup>+</sup></label><span>Son unos maderos gruesos colocados
+            <div class="regulado"><span class="original">á</span>a</div> cierta distancia, con travesaños para impedir la salida del ganado, etc.<input type="checkbox" id="cb"/><label for="cb"><sup>*</sup></label><span>La autora quiso decir talanquera, vocablo que sí concuerda con la descripción dada.</span> </span>: ya no necesito
          <div class="regulado"><span class="original">guia</span>guía</div>.
          <div class="regulado"><span class="original">A Dios</span>Adiós</div>, Sab, puedes continuar tu camino.</div>
 
