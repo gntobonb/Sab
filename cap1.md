@@ -13,10 +13,9 @@
 
       <h1>Capítulo I</h1>
 
+      infierno<input type="checkbox" id="cb1" /><label for="cb1"><sup>1</sup></label><span><br><br>Esta es la primera descripción de la vida del esclavo. Sab comienza con una sentencia: "es una vida terrible", para luego explayarse en una descripción detallada de la deshumanización del negro. Al esclavo se le condena una suerte adversa pues, al poner el adjetivo infeliz antes del sustantivo esclavo, se posiciona esta característica como definitoria del sujeto. Además, Sab habla de la degradación del ser humano que conlleva la esclavitud y compara esta vida con el infierno mismo, el peor de todos los males para el ser vivo.<br><br></span>
 
-      <input type="checkbox" id="cb1" /><label for="cb1"><sup>1</sup></label>
-  <span><br><br> This is the citation.<br><br></span>
-  
+
       <div class="epigrafe"><br>—<span class="agregado">¿</span><div class="regulado"><span class="original">Quien</span>Quién</div> eres?
             <span class="agregado">¿</span><div class="regulado"><span class="original">cual</span>cuál</div> es tu patria?
          <br>—Las influencias tiranas
