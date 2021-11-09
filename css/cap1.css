@@ -112,6 +112,7 @@ h1 h2 h3 h4 h5 h6 {
 .abreviatura {
   visibility: hidden;
   font-size: 12pt;
+  font-weight: 200;
   width: 120px;
   background-color:#6D8DBE;
   color:#010101;
@@ -158,22 +159,9 @@ h1 h2 h3 h4 h5 h6 {
 }
 
 
-
 .agregado {
     text-decoration-line:underline;
     text-decoration-color:#6D8DBE;
-}
-
-.autora {
-    visibility:hidden;
-}
-
-.critico {
-    visibility:hidden;
-}
-
-.expo {
-    visibility:hidden;
 }
 
 .sic {
