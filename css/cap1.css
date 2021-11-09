@@ -15,7 +15,6 @@ header {
   margin-right: -60%;
   margin-top:2%;
   font-size: 13pt;
-  font-family: 'Alice', serif;
 }
 
 body {
@@ -23,7 +22,6 @@ body {
   margin-left: 45%;
   margin-right: 15%;
   color: #353535;
-  
 }
 
 .dark-mode {
