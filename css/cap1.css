@@ -21,8 +21,9 @@ body {
   font-size:15pt;
   margin-left: 45%;
   margin-right: 15%;
+  font-family: 'Lato', sans-serif;
   color: #353535;
-  font-family: 'Lato' sans-serif;
+  
 }
 
 .dark-mode {
@@ -89,7 +90,7 @@ a.hover {
 
 h1 h2 h3 h4 h5 h6 {
   color:#494949;
-  font-family: 'Alice' serif;
+  font-family: 'Alice', serif;
 }
 
 
