@@ -102,6 +102,33 @@ h1 h2 h3 h4 h5 h6 {
     text-align:center;
 }
 
+.expansion {
+  position:relative;
+  display:inline-block;
+  text-decoration:underline;
+  text-decoration-line:underline;
+  text-decoration-color:#6D8DBE;
+}
+
+.abreviatura {
+  visibility: hidden;
+  width: 120px;
+  background-color:#6D8DBE;
+  color:#010101;
+  text-align: center;
+  border-radius: 6px;
+  padding: 2px 5px;
+  position: absolute;
+  width: auto;
+  top: 100%;
+  margin-left: auto;
+  z-index: 1;
+}
+
+.expansion:hover .abreviatura {
+  visibility: visible;
+}
+
 .regulado {
   position:relative;
   display:inline-block;
@@ -129,32 +156,7 @@ h1 h2 h3 h4 h5 h6 {
   visibility: visible;
 }
 
-.expansion {
-  position:relative;
-  display:inline-block;
-  text-decoration:underline;
-  text-decoration-line:underline;
-  text-decoration-color:#6D8DBE;
-}
 
-.abreviatura {
-  visibility: hidden;
-  width: 120px;
-  background-color:#6D8DBE;
-  color:#010101;
-  text-align: center;
-  border-radius: 6px;
-  padding: 2px 5px;
-  position: absolute;
-  width: auto;
-  top: 100%;
-  margin-left: auto;
-  z-index: 1;
-}
-
-.expansion:hover .abreviatura {
-  visibility: visible;
-}
 
 .agregado {
     text-decoration-line:underline;
