@@ -36,14 +36,15 @@ img {
 }
 
 sup {
-    text-decoration:underline;
+    color:#3A5989;
 }
 
-input[type=checkbox] ~ span {display:none;}
+input[type=checkbox] ~ span {display: none;}
 input[type=checkbox]:checked ~ span {display:inline;
 font-style:italic;
 font-size:12pt;}
 input[type=checkbox] {display:none;}
+
 
 a {
   color:#3A5989;
