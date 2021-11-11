@@ -80,7 +80,7 @@ sup {
 input[type=checkbox] ~ span {display: none;}
 input[type=checkbox]:checked ~ span {display:inline;
 font-style:italic;
-font-size:12pt;}
+font-size:11pt;}
 input[type=checkbox] {display:none;}
 
 
@@ -147,7 +147,9 @@ h1 h2 h3 h4 h5 h6 {
 
 .sic {
   visibility: hidden;
-  font-size: 12pt;
+  font-size: 11pt;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
   width: 120px;
   background-color:#6D8DBE;
   color:#010101;
@@ -174,7 +176,9 @@ h1 h2 h3 h4 h5 h6 {
 
 .aplicado {
   visibility: hidden;
-  font-size: 12pt;
+  font-size: 11pt;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
   width: 120px;
   background-color:#6D8DBE;
   color:#010101;
@@ -202,7 +206,9 @@ h1 h2 h3 h4 h5 h6 {
 
 .original {
   visibility: hidden;
-  font-size: 12pt;
+  font-size: 11pt;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
   width: 120px;
   background-color:#6D8DBE;
   color:#010101;
@@ -229,8 +235,9 @@ h1 h2 h3 h4 h5 h6 {
 
 .abreviatura {
   visibility: hidden;
-  font-size: 12pt;
-  font-weight: 200;
+  font-size: 11pt;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
   width: 120px;
   background-color:#6D8DBE;
   color:#010101;
@@ -257,9 +264,11 @@ h1 h2 h3 h4 h5 h6 {
 
 .numero {
   visibility: hidden;
-  font-size: 12pt;
+  font-size: 11pt;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
   width: 120px;
-  background-color:#8c95a3;
+  background-color:#6D8DBE;
   color:#010101;
   text-align: center;
   border-radius: 6px;
@@ -274,7 +283,6 @@ h1 h2 h3 h4 h5 h6 {
 .pagina:hover .numero {
   visibility: visible;
 }
-
 
 
 /* ---------------------BOTON DE SWITCH--------------------*/
