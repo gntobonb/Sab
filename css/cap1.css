@@ -3,20 +3,28 @@ body {
   font-family: 'Alice', serif;
   margin-left: 45%;
   margin-right: 15%;
-  color: #c7aaaa;
+  color: #5a5a5a;
+  transition: all 0.5s ease;
 }
 
 .dark-mode {
   background-color: #010101;
   color: #8d8d8d;
+  transition: all 0.5s ease;
 }
 
+/*------------------- PANEL INMOVIL ---------------------------*/
+img {
+  position:fixed;
+  right:0px;
+  top:0px;
+}
 
 .portada {
   position: fixed;
   margin-left: 13%;
   margin-right: 63%;
-  margin-top: 12%;
+  margin-top: 11%;
   margin-bottom: 15%;
 }
 
@@ -31,14 +39,40 @@ header {
   font-size: 13pt;
 }
 
+/*--------------------------------------------------------------*/
 
-
-img {
-  position:fixed;
-  right:0px;
-  top:0px;
+/*------------------BOTÓN MODO OSCURO--------------------------*/
+.switch {
+  background-color: #fffdfd;
+  height: 30px;
+  width: 30px;
+  border-radius: 100px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-left: 73%;
+  margin-top: -20%;
+  display: flex;
 }
 
+.oscuro {
+  width: 10px;
+  height: 12px;
+  display: block;  
+  background: none;
+  color:#fde400;
+  font-size: 15pt;
+  position:relative;
+  top: 15%;
+  left: 8%;
+}
+
+.oscuro:hover {
+  color:#c4c4c4;
+}
+
+
+/*----------------------------------------------------------------*/
 sup {
     color:#3A5989;
 }
@@ -244,51 +278,54 @@ h1 h2 h3 h4 h5 h6 {
   visibility: visible;
 }
 
-/*Toggles inside are positioned absolute, so buttons require a wrapper with positioning set as well*/
-.toggle-btn-wrapper {
+
+
+/* ---------------------BOTON DE SWITCH--------------------*/
+
+/*button .switch {
+  background-color: #b4b2b2;
+  border-radius: 1000px;
+  border:none;
   position: relative;
-  width: 27px;
-  height: 52px;
-  border-radius:14px;
+  cursor:pointer; 
+  display:flex;
+  outline: none;
+  margin-left: 75%;
+  margin-top: -15%;
 }
 
-/* Set default styles */
-.toggle-btn-default {
-  border: 1px solid #CCCCCC;
-  background-color: #C8C8C8;
-  height: 27px;
-  width: 52px;
-  font-weight: bold;
-  color: #FFFFFF;
-  border-radius: 14px;
+button .switch:after {
+  content: "";
+  display: block;
+  width: 16px;
+  height: 16px;
+  position:absolute;
+  background-color: #F1F1F1;
+  border-color: #7c7c7c;
+  top:-1;
+  left:0;
+  right: unset;
+  border-radius: 100px;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  box-shadow: 0px 0px 1px 1px rgba(0,0,0,.2);
 }
 
-.toggle-btn-control {
-    background-color:white;
-    border-radius:16px;
-    height: 25px;
-    width: 25px;
-    border: 1px solid #a9a9a9;
-    color: red;
-    position: absolute;
+button .switch:active {
+  background-color: #343D5b;
+  color: #010101;
 }
 
-/* Animation speeds and types */
-.transform-btn, .transform-control {
-  -webkit-transition: all 0.8s ease;  
-  -moz-transition: all 0.8s ease;  
-  -o-transition: all 0.8s ease;  
-  -ms-transition: all 0.8s ease;  
-  transition: all 0.8s ease;
+button .switch:active::after {
+  position: absolute;
+  right: 0;
+  left: unset;
 }
 
-/* Changes to the button */
-.transform-btn-active {
-  background-color: #3A5989;
-}
-
-/* Changes to the toggle square on top */
-.transform-control-active {
-  left: 26px;
-  border-radius:16px;
-}
+span .oscuro {
+  width: 10px;
+  height: 12px;
+  display: block;  
+  background: none;
+  color:#fff;
+}*/
