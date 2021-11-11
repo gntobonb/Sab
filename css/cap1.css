@@ -1,3 +1,17 @@
+body {
+  font-size:15pt;
+  font-family: 'Alice', serif;
+  margin-left: 45%;
+  margin-right: 15%;
+  color: #c7aaaa;
+}
+
+.dark-mode {
+  background-color: #010101;
+  color: #8d8d8d;
+}
+
+
 .portada {
   position: fixed;
   margin-left: 13%;
@@ -17,18 +31,7 @@ header {
   font-size: 13pt;
 }
 
-body {
-  font-size:15pt;
-  font-family: 'Alice', serif;
-  margin-left: 45%;
-  margin-right: 15%;
-  color: #353535;
-}
 
-.dark-mode {
-  background-color: #010101;
-  color: #8d8d8d;
-}
 
 img {
   position:fixed;
