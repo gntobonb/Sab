@@ -169,7 +169,6 @@ h1 h2 h3 h4 h5 h6 {
   position:relative;
   display:inline-block;
   text-decoration:underline;
-  text-decoration-line:underline;
   text-decoration-color:#6D8DBE;
 }
 
@@ -198,7 +197,6 @@ h1 h2 h3 h4 h5 h6 {
   position:relative;
   display:inline-block;
   text-decoration:underline;
-  text-decoration-line:underline;
   text-decoration-color:#6D8DBE;
 }
 
@@ -226,7 +224,6 @@ h1 h2 h3 h4 h5 h6 {
   position:relative;
   display:inline-block;
   text-decoration:underline;
-  text-decoration-line:underline;
   text-decoration-color:#6D8DBE;
 }
 
@@ -255,14 +252,14 @@ h1 h2 h3 h4 h5 h6 {
 .pagina {
   position:relative;
   display:inline-block;
-  color:#6D8DBE;
+  color:#8f8f8f;
 }
 
 .numero {
   visibility: hidden;
   font-size: 12pt;
   width: 120px;
-  background-color:#6D8DBE;
+  background-color:#8c95a3;
   color:#010101;
   text-align: center;
   border-radius: 6px;
