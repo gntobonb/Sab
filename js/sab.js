@@ -1,4 +1,4 @@
-/*First part of function initiates the action when the button is pressed
+//First part of function initiates the action when the button is pressed
 //Second part of the function initiates the action when the block is pressed as well
 
 
@@ -9,11 +9,10 @@ $("#control-uniqueID1").click(function() {
 });
 //Then if the button is clicked, run the thing
 $("#button-uniqueID1").click(function() {
-  $('#button-uniqueID1').toggleClass('box-active');
-  $('#control-uniqueID1').toggleClass('switch-active');
+  $('#button-uniqueID1').toggleClass('transform-btn-active');
+  $('#control-uniqueID1').toggleClass('transform-control-active');
 });
 
-//*
-  function oscuro() {
+function oscuro() {
    var element = document.body;
-   element.classList.toggle("dark-mode");}
+   element.classList.toggle("dark-mode");};

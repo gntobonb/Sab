@@ -17,6 +17,14 @@
 </head>
    <body>
 
+   <div class="toggle-btn-wrapper">
+  
+  <div id="control-uniqueID1" class="toggle-btn-control transform-control"></div>
+  
+  <input type="button" id="button-uniqueID1" class="toggle-btn-default transform-btn"></input>
+
+</div>
+
 
 
 
