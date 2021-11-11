@@ -4,12 +4,8 @@
       <script type="text/javascript" src="js/sab.js"></script>
       <title>Sab</title>
       <header>
-         
-      </br></br>
       <h1><a href="https://gntobonb.github.io/Sab/index.html">Sab</a></h1>
          <img class="portada" src="img/portada.png">
-         
-      </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
    </br></br>
          <a href="https://gntobonb.github.io/Sab/tabla_de_contenidos.html" class="boton">Índice</a>
          <p>Acceda al respositorio <a href="https://github.com/gntobonb/Sab" class="boton">gntobonb/Sab</a></p>
