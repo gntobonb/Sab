@@ -150,15 +150,29 @@ sup {
   color:#3A5989;
 }
 
-input[type=checkbox] ~ span {display: none;}
-input[type=checkbox]:checked ~ span {display:inline;
-font-weight: 700;
-font-size:11pt;
-font-family: 'Lato', sans-serif;
-line-height: 1.7;
+input[type=checkbox] ~ span {
+  display: none;
+}
+input[type=checkbox]:checked ~ span {
+  display:inline; 
+  font-weight: 700;
+  font-size:11pt;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.7;
 }
 
-input[type=checkbox] {display:none;}
+input[type=checkbox] {
+  display:none;
+}
+
+input[type=checkbox] ~ label:hover {
+  cursor:pointer;
+}
+
+input[type=checkbox]:checked ~ label {
+  color:red;
+  text-decoration:none;
+}
 /*--------------------------------------------------------------*/
 
 
