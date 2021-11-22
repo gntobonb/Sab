@@ -21,20 +21,37 @@ img {
 
 .portada {
   position: fixed;
-  margin-left: 13%;
   margin-right: 63%;
-  margin-top: 11%;
-  margin-bottom: 15%;
+  margin-top: 12%;
 }
 
-.portada:hover{
+/*.portada:hover{
   opacity: 0.5;
+}*/
+
+.titulo {
+  position: fixed;
+  margin-top:2%;
 }
+
+.autor {
+  position: fixed;
+  margin-top:7%;
+}
+
+.indice {
+  position: fixed;
+  margin-top: 37%;
+}
+
+.repositorio { 
+  position: fixed;
+  margin-top: 40%;
+}
+
 header {
   position: fixed;
   margin-left: -27%;
-  margin-right: -60%;
-  margin-top:2%;
   font-size: 13pt;
 }
 
@@ -49,9 +66,10 @@ header {
   border: none;
   outline: none;
   cursor: pointer;
-  margin-left: 73%;
-  margin-top: -20%;
   display: flex;
+  position:fixed;
+  margin-left:16%;
+  margin-top: 4%;
 }
 
 .oscuro {
@@ -61,9 +79,9 @@ header {
   background: none;
   color:#fde400;
   font-size: 15pt;
-  position:relative;
-  top: 15%;
-  left: 8%;
+  position: relative;
+  margin-left:16%;
+  margin-top: 20%;
 }
 
 .oscuro:hover {
@@ -126,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
   color:#494949;
 }
 
-body.dark-mode h1, body.dark-mode h3, body.dark-mode h4 {
+body.dark-mode h1, body.dark-mode h2, body.dark-mode h3, body.dark-mode h4 {
   color:#EEDBA8;
 }
 /*--------------------------------------------------------------*/
