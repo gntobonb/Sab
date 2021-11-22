@@ -146,13 +146,14 @@ body.dark-mode h1, body.dark-mode h3, body.dark-mode h4 {
 
 /*------------NOTAS CRÍTICAS, EXPOSITIVAS Y DE LA AUTORA----------------*/
 
-sup {
-  color:#3A5989;
+input[type=checkbox] {
+  display:none;
 }
 
 input[type=checkbox] ~ span {
   display: none;
 }
+
 input[type=checkbox]:checked ~ span {
   display:inline; 
   font-weight: 700;
@@ -161,16 +162,20 @@ input[type=checkbox]:checked ~ span {
   line-height: 1.7;
 }
 
-input[type=checkbox] {
-  display:none;
+
+input[type=checkbox] ~ label {
+  display:inline;
+  cursor:pointer;
+  color:#6D8DBE;
 }
 
 input[type=checkbox] ~ label:hover {
   cursor:pointer;
+  color:#D35400 ;
 }
 
 input[type=checkbox]:checked ~ label {
-  color:red;
+  color:#D35400 ;
   text-decoration:none;
 }
 /*--------------------------------------------------------------*/

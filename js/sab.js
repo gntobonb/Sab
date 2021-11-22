@@ -14,4 +14,10 @@ function myFunction() {
     document.body.classList.add('dark-mode');
   } else {
     document.body.classList.remove('dark-mode');
-  }
+  };
+
+  /*function inlineNote() {
+    let notas = document.getElementsByClassName("notas");
+    notas.style.display = checked ? "block" : "none";
+}
+*/

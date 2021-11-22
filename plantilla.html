@@ -28,12 +28,33 @@
       </header>
 </head>
    <body>
-del Norte<input type="checkbox" id="1" onclick="checkMe()"></input><label for="1"><sup>*</sup></label><span><div class="regulado"><span class="abreviatura">Nota crítica</span>N. C.</div> La autora utiliza la mayúscula para referenciar el norte global. Así, el viajero vendría siendo ciudadano europeo</span>.
+
+      <script type="text/javascript">
+         function ShowHideDiv(chkPassport) {
+             var notaUno = document.getElementById("notaUno");
+             notaUno.style.display = chkPassport.checked ? "inline" : "none";
+         }
+     </script>
+      Norte
+     <input type="checkbox" id="n1" onclick="ShowHideDiv(this)"></input>
+     <label for="n1"><sup>*</sup>
+     </label>
+     <div id="notaUno" style="display: none">
+         N. C. Aquí pongo mis reflexiones literarias
+     </div>.
       
+     Sur
+     <input type="checkbox" id="n1" onclick="ShowHideDiv(this)"></input>
+     <label for="n1"><sup>*</sup>
+     </label>
+     <div id="notaUno" style="display: none">
+         N. C. MAAAAAAS reflexiones literarias
+     </div>.
 
    </br></br>
 
+
+
       <a href="https://gntobonb.github.io/Sab/cap2.html" class="boton">Capítulo II</a>
-      <script type="text/javascript" src="js/sab.js"></script>
    </body>
    </html>
