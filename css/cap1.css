@@ -3,6 +3,8 @@ body {
   font-family: 'Alice', serif;
   margin-left: 45%;
   margin-right: 15%;
+  line-height: 1.6;
+  font-weight: normal;
   color: #444444;
   transition: all 0.3s ease;
 }
@@ -56,7 +58,11 @@ header {
 }
 
 /*--------------------------------------------------------------*/
-
+sup {
+  vertical-align: super;
+  font-size: smaller;
+  line-height: 0;
+}
 /*------------------BOTÓN MODO OSCURO--------------------------*/
 .switch {
   background-color: #fffdfd;
@@ -219,7 +225,7 @@ input[type=checkbox]:checked ~ label {
   border-radius: 6px;
   padding: 2px 5px;
   position: absolute;
-  width: auto;
+  width: max-content;
   top: 100%;
   margin-left: auto;
   z-index: 1;
@@ -342,15 +348,17 @@ input[type=checkbox]:checked ~ label {
   border-radius: 6px;
   padding: 2px 5px;
   position:absolute;
-  left: 0%;
-  width: auto;
-  top: 100%;
+  left: 0%;  
+  width: max-content;
+  top: 0%;
   margin-left: auto;
 }
 
 .pagina:hover .numero {
   visibility: visible;
+  /*opacity: 0;*/
 }
+
 /*--------------------------------------------------------------*/
 
 
