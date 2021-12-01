@@ -1,6 +1,6 @@
 body {
   font-size:15pt;
-  font-family: 'Alice', serif;
+  font-family: 'Source Serif Pro', serif;
   margin-left: 45%;
   margin-right: 15%;
   line-height: 1.6;
@@ -183,7 +183,6 @@ input[type=checkbox] ~ span {
 input[type=checkbox]:checked ~ span {
   display:inline; 
   font-weight: 700;
-  font-size:11pt;
   font-family: 'Lato', sans-serif;
   line-height: 1.7;
 }
@@ -226,7 +225,7 @@ input[type=checkbox]:checked ~ label {
   padding: 2px 5px;
   position: absolute;
   width: max-content;
-  top: 100%;
+  top: 0%;
   margin-left: auto;
   z-index: 1;
 }
@@ -253,8 +252,8 @@ input[type=checkbox]:checked ~ label {
   border-radius: 6px;
   padding: 2px 5px;
   position: absolute;
-  width: auto;
-  top: 100%;
+  width: max-content;
+  top: 0%;
   left: 0%;
   margin-left: auto;
   z-index: 1;
@@ -286,8 +285,8 @@ input[type=checkbox]:checked ~ label {
   border-radius: 6px;
   padding: 2px 5px;
   position: absolute;
-  width: auto;
-  top: 100%;
+  width: max-content;
+  top: 0%;
   margin-left: auto;
   z-index: 1;
 }
@@ -317,9 +316,9 @@ input[type=checkbox]:checked ~ label {
   border-radius: 6px;
   padding: 2px 5px;
   position: absolute;
-  width: auto;
+  width: max-content;
   left: 0%;
-  top: 100%;
+  top: 0%;
   margin-left: auto;
   z-index: 1;
 }
