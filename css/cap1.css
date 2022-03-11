@@ -144,7 +144,7 @@ a.hover {
 }
 
 .siguiente {
-  /*margin-right: 0%;*/
+  margin-right: 0%;
   margin-left: 70%;
   border-style:solid;
   border-width:2px;
@@ -187,7 +187,7 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3, body.dark-mode h4 {
 /*--------------------------------------------------------------*/
 /*---------------------------PÁRRAFOS----------------------------*/
 p {
-  text-indent: 20%;
+  text-indent: 10%;
 }
 /*--------------------------------------------------------------*/
 /*---------------------EPÍGRAFES Y CITAS----------------------*/
