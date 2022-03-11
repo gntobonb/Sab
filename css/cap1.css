@@ -144,7 +144,7 @@ a.hover {
 }
 
 .siguiente {
-  text-align: right;
+  margin-right: 0%;
   border-style:solid;
   border-width:2px;
   border-color:#6D8DBE;
