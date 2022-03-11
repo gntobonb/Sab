@@ -129,11 +129,34 @@ a.hover {
     font-weight: bold;
 }
 
-.siguiente {
-  margin-right: 0%;
-  margin-left: 50%;
+.anterior {
+  border-style:solid;
+  border-width:2px;
+  border-color:#6D8DBE;
+  border-radius:5px;
+  padding: 5px;
 }
 
+.anterior:hover {
+  background-color: #6D8DBE;
+  color:#010101;
+  font-weight: bold;
+}
+
+.siguiente {
+  text-align: right;
+  border-style:solid;
+  border-width:2px;
+  border-color:#6D8DBE;
+  border-radius:5px;
+  padding: 5px;
+}
+
+.siguiente:hover {
+  background-color: #6D8DBE;
+  color:#010101;
+  font-weight: bold;
+}
 /*.siguiente {
   border-style:solid;
   border-width:2px;
