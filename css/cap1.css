@@ -129,6 +129,10 @@ a.hover {
     font-weight: bold;
 }
 
+.siguiente {
+  text-align-last: right;
+}
+
 /*.siguiente {
   border-style:solid;
   border-width:2px;
