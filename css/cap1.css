@@ -189,11 +189,13 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3, body.dark-mode h4 {
 .epigrafe {
     text-align:right;
     font-size: 13pt;
+    line-height: 0.8;
 }
 
 .quote {
     text-align:center;
     font-size: 13pt;
+    line-height: 0.8;
 }
 /*--------------------------------------------------------------*/
 
