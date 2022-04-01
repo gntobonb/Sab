@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0" xpath-default-namespace="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
-  
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0" xpath-default-namespace="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
   <xsl:output method="xhtml"/>
   
+<!--VARIABLES-->
+  <xsl:variable name="anterior">
+    <xsl:value-of select="//body/@prev"/>
+  </xsl:variable>
   
+  <xsl:variable name="siguiente">
+    <xsl:value-of select="//body/@next"/>
+  </xsl:variable>
+  
+  
+  <xsl:variable name="numcap" as="xs:integer">
+    <xsl:value-of select="//body/@n" />
+  </xsl:variable>
+  
+  <xsl:variable name="anteriorromano" as="xs:string">
+    <xsl:number value="$numcap - 1" format="I"/>
+  </xsl:variable>
+  
+  
+  <xsl:variable name="siguienteromano" as="xs:string">
+    <xsl:number value="$numcap + 1" format="I"/>
+  </xsl:variable>
   
   <xsl:template match="/">
     <html>
@@ -48,9 +70,34 @@
       
       <body>
         <xsl:apply-templates/>
+        
+        
+        
+        
+<!--BOTONES-->
         <br/>
-        <a href="https://gntobonb.github.io/Sab/1cap4.html" class="anterior"><xsl:text>Capítulo IV</xsl:text></a>
-        <a href="https://gntobonb.github.io/Sab/1cap6.html" class="siguiente"><xsl:text>Capítulo VI</xsl:text></a>
+        <xsl:if test="//body/@prev">
+          <a class="anterior">
+            <xsl:attribute name="href">
+              <xsl:value-of select="concat('https://gntobonb.github.io/Sab/', $anterior, '.html')"/>
+            </xsl:attribute>
+            
+            <xsl:text>Capítulo </xsl:text>
+            <xsl:value-of select="$anteriorromano"/>
+            
+          </a> 
+        </xsl:if>
+        
+        
+        <xsl:if test="//body/@next">
+          <a class="siguiente">
+            <xsl:attribute name="href">
+              <xsl:value-of select="concat('https://gntobonb.github.io/Sab/', $siguiente, '.html')"/>
+            </xsl:attribute>
+            <xsl:text>Capítulo </xsl:text>
+            <xsl:value-of select="$siguienteromano"/>
+          </a>
+        </xsl:if>
         <br/>
         
         <script type="text/javascript" src="js/sab.js"></script>
@@ -63,25 +110,25 @@
   
   
   <!--ESTO OCULTA TeiHeader--> 
-  <xsl:template match="/TEI/teiHeader[1]">
+  <xsl:template match="/TEI/teiHeader">
     <!--no haga nada-->
   </xsl:template>
   
-  <xsl:template match="/TEI/text[1]/body[1]/div[1]/p[1]">
-    <!--no haga nada-->
-  </xsl:template>
+ <!-- <xsl:template match="/TEI/text[1]/body[1]/div[1]/p[1]">
+    <!-\-no haga nada-\->
+  </xsl:template>-->
   
-  <xsl:template match="/TEI/text[1]/body[1]/div[1]/p[2]">
-    <!--no haga nada-->
+  <!--<xsl:template match="/TEI/text[1]/body[1]/div[1]/p[2]">
+    <!-\-no haga nada-\->
   </xsl:template>
-  
+  -->
   
   
   
   
   
   <!--TÍTULO-->
-  <xsl:template match="span[@type='titulo']">
+  <xsl:template match="div[@type='titulo']/p">
     <h1>
       <xsl:apply-templates/>
     </h1>
