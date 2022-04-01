@@ -47,13 +47,13 @@
  </teiHeader>
  <text type="critical" xml:lang="es">
    <body>
-     <div>
        <pb n="7" type="page"/>
        <p>SAB</p>
        <p>PRIMERA PARTE</p>
-       <div type="titulo">
-         <p>Capítulo I</p></div>
-     </div>
+       <span type="titulo">
+         Capítulo I
+       </span>
+     
      <div><quote type="epigrafe">
          <lg>
            <l>—<corr>¿</corr><choice><orig>Quien</orig><reg>Quién</reg></choice> eres? <corr>¿</corr><choice><orig>cual</orig><reg>cuál</reg></choice> es tu patria?</l>

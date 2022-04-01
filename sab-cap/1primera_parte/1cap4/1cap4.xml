@@ -46,8 +46,8 @@
     <text type="critical" xml:lang="es">
         <body>
             <pb n="55" type="page"/>
-            <div type="titulo">
-                <p>Capítulo IV</p></div>
+            <span type="titulo">
+                Capítulo IV</span>
             <div><quote type="epigrafe">
                 <lg><l>No hay mal para el amor correspondido,</l> 
                     <l>no hay bien que no sea mal para el ausente.</l>

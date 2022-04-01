@@ -46,9 +46,9 @@
     <text type="critical" xml:lang="es">
         <body>
             <pb n="69" type="page"/>
-            <div type="titulo">
-                <p>Capítulo V</p>
-            </div>
+            <span type="titulo">
+               Capítulo V
+            </span>
             <div type="epigrafe">
                 <lg><l>... La tormenta <choice><orig>umbria</orig><reg>umbría</reg></choice></l>
                 <l>en los aires revuelve un Océano</l>
