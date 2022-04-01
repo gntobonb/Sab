@@ -101,7 +101,7 @@ body.dark-mode header button {
 
 /*--------------------------------------------------------------*/
 .nota {
-  white-space: nowrap;
+  display: inline-block;
 }
 
 
