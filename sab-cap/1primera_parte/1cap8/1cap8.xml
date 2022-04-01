@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+   schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sab</title>
+                <author>Gertrudis Gómez de Avellaneda</author>
+                <editor>Génesis Natalia Tobón Becerra</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.0.1-dev">
+                    <date when="2021-10-15">Octubre, 15 de 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Universidad de los Andes</authority>
+                <availability status="free">
+                    <p>Esta publicación se rige bajo la ley de Dominio Público.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Primera edición obtenida de Google Books.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Esta es una edición digital y crítica de la novela antiesclavista Sab (1841) de la
+                    autora cubana Gertrudis Gómez de Avellaneda (1814-1873), realizada como proyecto de grado
+                    de la Maestría en Humanidades Digitales de la Universidad de los Andes. </p>
+            </projectDesc>
+            <editorialDecl>
+                <p>La codificación de este texto se realizó siguiendo las recomendaciones guías TEI.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2021-10-15" status="draft" n="0.0.1">
+                    <p>Esta es la codificación de "Nota al lector"</p>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text type="critical" xml:lang="es">
+        <body>
+            <pb n="111" type="page"/>
+            <div type="titulo">
+                <p>Capítulo VIII</p>
+            </div>
+            <div><quote type="epigrafe">
+                <lg><l>Cantó, y amorosa</l>
+                    <l>venció su voz blanda</l>
+                    <l>la voz de las aves</l>
+                    <l>que anuncian el alba.</l>
+                    <l>LISTA<sic>.</sic></l></lg></quote></div>
+            <div><p>Los dos <choice><orig>viageros</orig><reg>viajeros</reg></choice> atravesaron juntos por segunda vez aquellos campos: pero en lugar de una noche tempestuosa molestábales entonces el calor de un hermoso <choice><orig>dia</orig><reg>día</reg></choice>. Enrique para distraerse del fastidio del camino, en hora tan molesta, <choice><orig>dirigia</orig><reg>dirigía</reg></choice> <choice><orig>á</orig><reg>a</reg></choice> su compañero preguntas insidiosas sobre el estado actual de las posesiones de <choice><abbr>D.</abbr><expan>don</expan></choice> <choice><orig>Cárlos</orig><reg>Carlos</reg></choice>, <choice><orig>a</orig><reg>á</reg></choice> las que <pb n="112" type="page"/> <choice><orig>respondia</orig><reg>respondía</reg></choice> Sab con muestras de sencillez <choice><orig>é</orig><reg>e</reg></choice> ingenuidad. Sin embargo, <choice><orig>a</orig><reg>á</reg></choice> veces le fijaba miradas tan penetrantes que el <choice><orig>jóven</orig><reg>joven</reg></choice> <choice><orig>estrangero</orig><reg>extranjero</reg></choice> bajaba las suyas, como temeroso de que leyese en ellas el motivo de sus preguntas.</p></div>
+            <div><sp who="sab"><p>La fortuna de mi amo <corr>—</corr>díjole una vez<choice><orig>,</orig><reg>—</reg></choice> está bastante <choice><orig>decaida</orig><reg>decaída</reg></choice> y sin duda es una felicidad para él casar <choice><orig>a</orig><reg>á</reg></choice> su hija mayor con un <choice><orig>sugeto</orig><reg>sujeto</reg></choice> rico, que no repare en la dote que puede llevar la <choice><orig>Señorita</orig><reg>señorita</reg></choice>.</p></sp></div>
+            <div><p>Sab no miraba <choice><orig>a</orig><reg>á</reg></choice> Otway al decir estas palabras y no pudo notar el encarnado que tiñó sus mejillas al <choice><orig>oirlas</orig><reg>oírlas</reg></choice><choice><orig>:</orig><reg>;</reg></choice> tardó un momento en responder y dijo al fin con voz mal segura<choice><orig>.</orig><reg>:</reg></choice></p></div>
+            <div><sp who="otway"><p>Carlota tiene una dote <choice><orig>mas</orig><reg>más</reg></choice> rica y apreciable en sus gracias y virtudes.</p></sp></div>
+            <div><p>Sab le miró entonces fijamente: <choice><orig>parecia</orig><reg>parecía</reg></choice> preguntarle con su mirada si él <choice><orig>sabria</orig><reg>sabría</reg></choice> apreciar aquella dote. Enrique no pudo sostener su muda <choice><orig>interpelacion</orig><reg>interpelación</reg></choice> y desvió el rostro con algun enfado. El mulato murmuró entre dientes<choice><orig>.</orig><reg>:</reg></choice></p></div>
+            <div><sp who="sab"><p><corr>¡</corr>No, no eres capaz de ello!</p></sp></div>
+            <div><sp who="otway"><p>¿Qué hablas, Sab? <corr>—</corr>preguntó Enrique, que si bien no <choice><orig>habia</orig><reg>había</reg></choice> podido entender <pb n="113" type="page"/> distintamente sus palabras<corr>,</corr> oyó el murmullo de su voz<corr>—</corr>. ¿Estás por ventura rezando?</p></sp></div>
+            <div><sp who="sab"><p>Pensaba, señor, que este sitio en que ahora nos hallamos es el mismo en que <choice><orig>ví</orig><reg>vi</reg></choice> <choice><orig>a</orig><reg>á</reg></choice> <choice><orig>su-merced</orig><reg>sumerced</reg></choice> sin sentido, en medio de los horrores de la tempestad. <choice><orig>Hácia</orig><reg>Hacia</reg></choice> la derecha está la cabaña <choice><orig>a</orig><reg>á</reg></choice> la que os conduje sobre mis espaldas.</p></sp></div>
+            <div><sp who="otway"><p>Sí, Sab, y no necesito ver estos sitios para acordarme que te debo la vida. Carlota te ha concedido ya la libertad, pero eso no basta y Enrique premiará con mayor generosidad el servicio que le has hecho.</p></sp></div>
+            <div><sp who="sab"><p>Ninguna recompensa merezco <choice><orig>,</orig><reg>—</reg></choice>respondió con voz alterada el mulato<corr>—</corr>, la señorita me <choice><orig>habia</orig><reg>había</reg></choice> recomendado vuestra persona y era un deber <choice><orig>mio</orig><reg>mío</reg></choice> obedecerla.</p></sp></div>
+            <div><sp who="otway"><p>Parece que amas mucho <choice><orig>a</orig><reg>á</reg></choice> Carlota <choice><orig>,</orig><reg>—</reg></choice>repuso Enrique parando su caballo para coger una naranja de un árbol que doblegaban sus frutos.</p></sp></div>
+            <div><p>El mulato lanzó sobre él su mirada de águila, pero la <choice><orig>espresion</orig><reg>expresión</reg></choice> del rostro de su interlocutor le aseguró de que <choice><orig>ningun</orig><reg>ningún</reg></choice> designio secreto de sondearle encerraban <pb n="114" type="page"/> aquellas palabras. Entonces contestó con serenidad, mientras Enrique mondaba con una navaja la naranja que <choice><orig>habia</orig><reg>había</reg></choice> cogido<choice><orig>.</orig><reg>:</reg></choice></p></div>
+            <div><sp who="sab"><p>¿Y <choice><orig>quien</orig><reg>quién</reg></choice> que la conozca podrá no amarla? La señorita de B... es <choice><orig>a</orig><reg>á</reg></choice> los ojos de su humilde esclavo lo que debe ser <choice><orig>a</orig><reg>á</reg></choice> los de todo hombre que no sea un malvado: un objeto de <choice><orig>veneracion</orig><reg>veneración</reg></choice> y de ternura.</p></sp></div>
+            <div><p>Enrique arrojó la naranja con impaciencia y continuó andando sin mirar <choice><orig>a</orig><reg>á</reg></choice> Sab. Acaso la voz secreta de su conciencia le <choice><orig>decia</orig><reg>decía</reg></choice> en aquel momento que trocando su <choice><orig>corazon</orig><reg>corazón</reg></choice> por el <choice><orig>corazon</orig><reg>corazón</reg></choice> de aquel ser degradado <choice><orig>seria</orig><reg>sería</reg></choice> <choice><orig>mas</orig><reg>más</reg></choice> digno del amor entusiasta de Carlota.</p></div>
+            <div><p>Al ruido que formaba el galope de los caballos de la familia de B... conociendo que eran los de Enrique y Sab corrieron <choice><orig>a</orig><reg>á</reg></choice> recibirlos, y Carlota se precipitó palpitante de amor y de <choice><orig>alegria</orig><reg>alegría</reg></choice> en los brazos de su amante. El <choice><abbr>Sr.</abbr><expan>señor</expan></choice> de B... y las niñas le prodigaban al mismo tiempo las <choice><orig>mas</orig><reg>más</reg></choice> tiernas caricias, y le introdujeron en la casa con demostraciones del <choice><orig>mas</orig><reg>más</reg></choice> vivo placer.</p></div>
+            <div><p>Solamente dos personas quedaron en el <pb n="115" type="page"/> patio: Teresa de pie, <choice><orig>inmovil</orig><reg>inmóvil</reg></choice> en el humbral de la puerta que acababan de atravesar sin reparar en ella los dos amantes, y Sab de pie <choice><orig>tambien</orig><reg>también</reg></choice><corr>,</corr> y <choice><orig>tambien</orig><reg>también</reg></choice> <choice><orig>inmovil</orig><reg>inmóvil</reg></choice> en frente de ella, junto <choice><orig>a</orig><reg>á</reg></choice> su jaco negro del cual acababa de bajarse. Ambos se miraron y ambos se estremecieron, porque como en un espejo <choice><orig>habia</orig><reg>había</reg></choice> visto cada uno de ellos en la mirada del otro la dolorosa <choice><orig>pasion</orig><reg>pasión</reg></choice> que en aquel momento le dominaba. Sorprendidos mutuamente exclamaron al mismo tiempo:</p></div>
+            <div><sp who="teresa"><p><corr>¡</corr>Sab!</p></sp></div>
+            <div><sp who="sab"><p><corr>¡</corr>Teresa!</p></sp></div>
+            <div><p>Se han entendido y huye cada uno de las miradas del otro. Sab se interna por los cañaverales, corriendo como el venado herido que huye del cazador llevando ya clavado el hierro en lo <choice><orig>mas</orig><reg>más</reg></choice> sensible de sus entrañas. Teresa se encierra en su <choice><orig>habitacion</orig><reg>habitación</reg></choice>.</p></div>
+            <div><p>Mientras tanto el <choice><orig>jubilo</orig><reg>júbilo</reg></choice> reinaba en la casa y Carlota no <choice><orig>habia</orig><reg>había</reg></choice> gozado <choice><orig>jamas</orig><reg>jamás</reg></choice> felicidad mayor que la que experimentaba al ver junto <choice><orig>a</orig><reg>á</reg></choice> <choice><orig>si</orig><reg>sí</reg></choice> <choice><orig>a</orig><reg>á</reg></choice> su amante, <choice><orig>despues</orig><reg>después</reg></choice> de haber temido perderle. Miraba la cicatriz de su frente y <choice><orig>vertia</orig><reg>vertía</reg></choice> lágrimas de enternecimiento. <pb n="116" type="page"/> Referíale todos sus temores, todas sus pasadas angustias para gozarse <choice><orig>despues</orig><reg>después</reg></choice> en su dicha presente; y era tan viva y elocuente su ternura que Enrique subyugado por ella, <choice><orig>a</orig><reg>á</reg></choice> pesar suyo, <choice><orig>sentia</orig><reg>sentía</reg></choice> palpitar su <choice><orig>corazon</orig><reg>corazón</reg></choice> con una <choice><orig>emocion</orig><reg>emoción</reg></choice> desconocida.</p></div>
+            <div><sp who="otway"><p><corr>¡</corr>Carlota! <corr>—</corr>la dijo una vez<corr>—</corr>, un amor como el tuyo es un bien tan alto que temo no merecerlo. Mi alma acaso no es bastante grande para encerrar el amor que te debo. <corr>—</corr>Y apretaba la mano de la <choice><orig>jóven</orig><reg>joven</reg></choice> sobre su <choice><orig>corazon</orig><reg>corazón</reg></choice>,que <choice><orig>latia</orig><reg>latía</reg></choice> con un sentimiento tan vivo y tan puro que acaso aquel momento en que se <choice><orig>decia</orig><reg>decía</reg></choice> indigno de su dicha, <choice><orig>fué</orig><reg>fue</reg></choice> uno de los pocos de su vida en que supo merecerla.</p></sp></div>
+            <div><p>Hay en los afectos de las almas ardientes y apasionadas como una fuerza magnética, que conmueve y domina todo cuanto se les acerca. <choice><orig>Asi</orig><reg>Así</reg></choice> una alma vulgar se siente a veces elevada sobre <choice><orig>si</orig><reg>sí</reg></choice> misma, <choice><orig>a</orig><reg>á</reg></choice> la altura de aquella con quien <choice><orig>esta</orig><reg>está</reg></choice> en contacto, por decirlo <choice><orig>asi</orig><reg>así</reg></choice>, y <choice><orig>solo</orig><reg>sólo</reg></choice> cuando vuelve <choice><orig>a</orig><reg>á</reg></choice> caer, cuando se halla sola y en su propio lugar, puede conocer que era <choice><orig>estraño</orig><reg>extraño</reg></choice> <pb n="117" type="page"/> el impulso que la movía y prestada la fuerza que la animaba.</p></div>
+            <div><p>El señor de B... llegó <choice><orig>a</orig><reg>á</reg></choice> interrumpir <choice><orig>a</orig><reg>á</reg></choice> los dos amantes.</p></div>
+            <div><sp who="carlos"><p>Creo <choice><orig>,</orig><reg>—</reg></choice>dijo sentándose junto <choice><orig>a</orig><reg>á</reg></choice> ellos<choice><orig>,</orig><reg>—</reg></choice> que no <choice><orig>habreis</orig><reg>habréis</reg></choice> olvidado nuestro proyectado paseo <choice><orig>a</orig><reg>á</reg></choice> Cubitas. ¿<choice><orig>Cuando</orig><reg>Cuándo</reg></choice> <choice><orig>quereis</orig><reg>queréis</reg></choice> que partamos?</p></sp></div>
+            <div><sp who="otway"><p>Lo <choice><orig>mas</orig><reg>más</reg></choice> pronto posible <choice><orig>,</orig><reg>—</reg></choice>dijo Otway.</p></sp></div>
+            <div><sp who="carlos"><p>Esta misma tarde será <choice><orig>,</orig><reg>—</reg></choice>repuso don Carlos<corr>—</corr>, y yoy <choice><orig>a</orig><reg>á</reg></choice> prevenir <choice><orig>a</orig><reg>á</reg></choice> Teresa y <choice><orig>a</orig><reg>á</reg></choice> Sab para que se disponga todo lo necesario <choice><orig>a</orig><reg>á</reg></choice> la partida, pues veo <choice><orig>,</orig><reg>—</reg></choice>añadió besando en la frente <choice><orig>a</orig><reg>á</reg></choice> su hija<choice><orig>,</orig><reg>—</reg></choice> que mi Carlota está demasiado preocupada para atender <choice><orig>a</orig><reg>á</reg></choice> ello.</p></sp></div>
+            <div><p>Marchóse en seguida y las niñas, regocijadas con la proximidad de la viajata, le siguieron saltando.</p></div>
+            <div><sp who="otway"><p>Estaré contigo dos <choice><orig>ó</orig><reg>o</reg></choice> tres <choice><orig>dias</orig><reg>días</reg></choice> en Cubitas <choice><orig>,</orig><reg>—</reg></choice>dijo Enrique <choice><orig>a</orig><reg>á</reg></choice> su amada, me es forzoso marchar luego a Guanaja.</p></sp></div>
+            <div><sp><p>Apenas gozo el placer de verte <choice><orig>,</orig><reg>—</reg></choice>respondió ella con dulcísima voz<choice><orig>,</orig><reg>—</reg></choice> cuando ya me anuncias otra nueva ausencia. Sin embargo, Enrique, soy tan feliz en este instante que no puedo quejarme.</p></sp></div> <pb n="118" type="page"/>
+            <div><sp><p>Pronto llegará el <choice><orig>dia</orig><reg>día</reg></choice> <choice><orig>,</orig><reg>—</reg></choice>repuso él<choice><orig>,</orig><reg>—</reg></choice> en que nos uniremos para no separarnos <choice><orig>mas</orig><reg>más</reg></choice>.</p></sp></div>
+            <div><p>Y al decirlo preguntábase interiormente si <choice><orig>llegaria</orig><reg>llegaría</reg></choice> en efecto aquel  <choice><orig>dia</orig><reg>día</reg></choice>, y si le <choice><orig>seria</orig><reg>sería</reg></choice> imposible renunciar <choice><orig>a</orig><reg>á</reg></choice> la dicha de poseer <choice><orig>a</orig><reg>á</reg></choice> Carlota. Miróla y nunca le <choice><orig>habia</orig><reg>había</reg></choice> parecido tan hermosa. Agitado, y descontento de <choice><orig>si</orig><reg>sí</reg></choice> mismo levantóse y comenzó <choice><orig>a</orig><reg>á</reg></choice> pasearse por la sala, procurando disimular su <choice><orig>turbacion</orig><reg>turbación</reg></choice>. No dejó sin embargo de notarla Carlota y preguntábale la causa con tímidas miradas. ¡Oh<corr>,</corr> si la hubiera penetrado en aquel momento!... Era preciso que muriese <choice><orig>ó</orig><reg>o</reg></choice> que cesase de amarle.</p></div>
+            <div><p>Enrique evitaba encontrar los ojos de la doncella, y se <choice><orig>habia</orig><reg>había</reg></choice> reclinado lejos de ella en el antepecho de una ventana. Carlota se sintió herida de aquella repentina mudanza, y su orgullo de <choice><orig>muger</orig><reg>mujer</reg></choice> sugirióle en el instante aparentar indiferencia <choice><orig>a</orig><reg>á</reg></choice> una conducta tan <choice><orig>estraña</orig><reg>extraña</reg></choice>. Estaba junto <choice><orig>a</orig><reg>á</reg></choice> ella su guitarra, tomóla y ensayó cantar. La <choice><orig>agitacion</orig><reg>agitación</reg></choice>, <choice><orig>hacia</orig><reg>hacía</reg></choice> flaquear su voz; pero hízose por un momento superior a ella y sin <choice><orig>eleccion</orig><reg>elección</reg></choice>, <choice><orig>a</orig><reg>á</reg></choice> la casualidad cantó estas estrofas<choice><orig>;</orig><reg>,</reg></choice> que estaban muy <pb n="119" type="page"/> lejos de sospechar pudiesen ser aplicables <choice><orig>a</orig><reg>á</reg></choice> la <choice><orig>situacion</orig><reg>situación</reg></choice> de ambos:</p></div>
+            <div><quote>
+                <lg><l>Es Nice <choice><orig>jóven</orig><reg>joven</reg></choice> y amable</l>
+                    <l>y su tierno <choice><orig>corazon</orig><reg>corazón</reg></choice></l>
+                    <l>un afecto inalterable</l>
+                    <l>consagra al bello <choice><orig>Damon</orig><reg>Damón</reg></choice>.</l>
+                    <l>Otro tiempo su ternura</l>
+                    <l>pagaba ufano el pastor;</l>
+                    <l><choice><orig>mas</orig><reg>más</reg></choice> ¡ay! que nueva hermosura</l>
+                    <l>le ofrece otro nuevo amor.</l>
+                    <l>Y es Nice pobre zagala</l>
+                    <l>y es Laura rica beldad</l>
+                    <l>que si en amor no la iguala</l>
+                    <l>la supera en calidad.</l>
+                    <l>Satisface Laura de oro</l>
+                    <l>de su amante la <choice><orig>ambicion</orig><reg>ambición</reg></choice>:</l>
+                    <l>Nice le <choice><orig>dá</orig><reg>da</reg></choice> por tesoro</l>
+                    <l>su sensible <choice><orig>corazon</orig><reg>corazón</reg></choice>.</l>
+                    <l>Cede el zagal fascinado</l>
+                    <l>de la riqueza al poder,</l>
+                    <l>y ante Laura prosternado</l>
+                    <l>le mira Nice caer.</l>
+                    <l>Al verse sacrificada,</l> <pb n="120" type="page"/>
+                    <l>por el ingrato pastor</l>
+                    <l>la doncella desgraciada</l>
+                    <l>maldice al infausto amor.</l>
+                    <l>No ve que dura venganza</l>
+                    <l>toma del amante infiel,</l>
+                    <l>y en su <choice><orig>caliz</orig><reg>cáliz</reg></choice> de esperanza</l>
+                    <l>mezcla del dolor la hiel.</l>
+                    <l>Tardío arrepentimiento</l>
+                    <l>ya envenena su existir,</l>
+                    <l>y cual señor opulento</l>
+                    <l>comienza el tedio <choice><orig>a</orig><reg>á</reg></choice> sentir.</l>
+                    <l>Entre pesares y enojos</l>
+                    <l>vive rico y sin solaz:</l>
+                    <l>huye el sueño de sus ojos</l>
+                    <l>y pierde su alma la paz.</l>
+                    <l>Recuerda su Nice amada</l>
+                    <l>y suspira de dolor;</l>
+                    <l>y en voz profunda y airada</l>
+                    <l><choice><orig>asi</orig><reg>así</reg></choice> le dice el amor:</l>
+                    <l>«Los agravios que me hacen</l>
+                    <l>los hombres lloran un  <choice><orig>dia</orig><reg>día</reg></choice>,</l>
+                    <l>y <choice><orig>asi</orig><reg>así</reg></choice> <choice><orig>solo</orig><reg></reg></choice> satisfacen,</l>
+                    <l><choice><orig>Damon</orig><reg>Damón</reg></choice>, la venganza <choice><orig>mia</orig><reg>mía</reg></choice>:</l>
+                    <l>Que yo doy mayor contento,</l>
+                    <l>en pobre y humilde hogar,</l> <pb n="121" type="page"/>
+                    <l>que con tesoro sin cuento,</l>
+                    <l>puedes ¡insano! gozar.»</l></lg></quote></div>
+            <div><p>Terminó la <choice><orig>jóven</orig><reg>joven</reg></choice> su <choice><orig>cancion</orig><reg>canción</reg></choice>, y aun pensaba escucharla Enrique. Carlota acababa de responder en alta voz <choice><orig>a</orig><reg>á</reg></choice> sus secretas dudas, a sus ocultos pensamientos. ¿<choice><orig>Habialos</orig><reg>Habíalos</reg></choice> por ventura adivinado? ¿Era tal vez el cielo mismo quien le hablaba por la boca de aquella tierna hermosura?</p></div>
+            <div><p>Un impulso involuntario y poderoso le hizo caer <choice><orig>a</orig><reg>á</reg></choice> sus pies y ya <choice><orig>abria</orig><reg>abría</reg></choice> los labios, acaso para jurarla que <choice><orig>seria</orig><reg>sería</reg></choice> preferida <choice><orig>a</orig><reg>á</reg></choice> todos los tesoros de la tierra, cuando apareció nuevamente <choice><abbr>D.</abbr><expan>don</expan></choice> Calos: <choice><orig>seguiale</orig><reg>seguíale</reg></choice> Sab <choice><orig>mas</orig><reg>más</reg></choice> se detuvo por respeto en el umbral de la puerta, mientras Enrique se levantaba confuso de las plantas de su querida, avergonzado ya del impulso desconocido de generosa ternura que por un momento le <choice><orig>habia</orig><reg>había</reg></choice> subyugado. <choice><orig>Tambien</orig><reg>También</reg></choice> las mejillas de Carlota se tiñeron de <choice><orig>purpura</orig><reg>púrpura</reg></choice>, pero trasluciase al través de su embarazo la secreta <choice><orig>satisfaccion</orig><reg>satisfacción</reg></choice> de su alma; pues si bien <pb n="122" type="page"/> Enrique no <choice><orig>habia</orig><reg>había</reg></choice> hablado una sola palabra al arrojarse <choice><orig>a</orig><reg>á</reg></choice> sus pies, ella <choice><orig>habia</orig><reg>había</reg></choice> <choice><orig>leido</orig><reg>leído</reg></choice> en sus ojos, con la admirable perspicacia de su sexo, que nunca <choice><orig>habia</orig><reg>había</reg></choice> sido tan amada como en aquel momento.</p></div>
+            <div><p><choice><abbr>D.</abbr><reg>Don</reg></choice> Cárlos dirigió algunas chanzas <choice><orig>a</orig><reg>á</reg></choice> los dos amantes, <choice><orig>mas</orig><reg>más</reg></choice> notando que aumentaba su <choice><orig>turbacion</orig><reg>turbación</reg></choice> apresurose <choice><orig>a</orig><reg>á</reg></choice> variar de objeto.</p></div>
+            <div><sp who="carlos"><p><choice><orig>Aqui</orig><reg>Aquí</reg></choice> <choice><orig>teneis</orig><reg>tenéis</reg></choice> <choice><orig>a</orig><reg>á</reg></choice> Sab <choice><orig>,</orig><reg>—</reg></choice>les dijo<corr>—</corr>, señalad la hora de la partida pues él es el encargado de todas las disposiciones del <choice><orig>viage</orig><reg>viaje</reg></choice>, y como práctico en estos caminos será nuestro <choice><orig>guia</orig><reg>guía</reg></choice>.</p></sp></div>
+            <div><p>El mulato se <choice><orig>acerco</orig><reg>acercó</reg></choice> entonces, y <choice><abbr>D.</abbr><expan>don</expan></choice> Carlos sentándose entre Carlota y Enrique prosiguió dirigiéndose <choice><orig>a</orig><reg>á</reg></choice> este<choice><orig>.</orig><reg>:</reg></choice></p></div>
+            <div><sp who="carlos"><p>Hace diez años que no he estado en Cubitas y aun antes de esta época visité muy pocas veces las estancias que tengo <choice><orig>alli</orig><reg>allí</reg></choice>. Estaban casi abandonadas, pero desde que Sab vino <choice><orig>a</orig><reg>á</reg></choice> Bellavista sus frecuentes visitas <choice><orig>a</orig><reg>á</reg></choice> Cubitas les han sido de mucha utilidad, <choice><orig>segun</orig><reg>según</reg></choice> estoy informado; y creo que las hallaré en mejor estado que cuando las vi la última vez.</p></sp></div> <pb n="123" type="page"/>
+            <div><p>Sab manifestó que dichas estancias estaban <choice><orig>todavia</orig><reg>todavía</reg></choice> muy distantes del grado de mejora y utilidad <choice><orig>a</orig><reg>á</reg></choice> que <choice><orig>podian</orig><reg>podían</reg></choice> llegar con <choice><orig>mas</orig><reg>más</reg></choice> esmerado cultivo, y preguntó la hora de la partida.</p></div>
+            <div><p>Carlota señaló las cinco de la tarde, hora en que la brisa comienza <choice><orig>a</orig><reg>á</reg></choice> refrescar la atmósfera y hace menos sensible el calor de la <choice><orig>estacion</orig><reg>estación</reg></choice>, y Sab se retiró.</p></div>
+            <div><sp who="carlos"><p>Es un excelente mozo <choice><orig>,</orig><reg>—</reg></choice>dijo don <choice><orig>Cárlos</orig><reg>Carlos</reg></choice><choice><orig>,</orig><reg>—</reg></choice> y su celo y actividad han sido muy útiles <choice><orig>a</orig><reg>á</reg></choice> esta finca. Su talento natural es despejadísimo y tiene para todo aquello <choice><orig>a</orig><reg>á</reg></choice> que se dedica admirables disposiciones: le quiero mucho y ya hace tiempo que fuera libre si lo hubiese deseado. Pero ahora es fuerza que lo sea y que anticipe yo mis resoluciones, pues <choice><orig>asi</orig><reg>así</reg></choice> lo quiere mi Carlota. Ya he escrito con este objeto <choice><orig>a</orig><reg>á</reg></choice> mi apoderado en <choice><orig>Puerto-Príncipe</orig><reg>Puerto Príncipe</reg></choice> y tu mismo, Enrique, <choice><orig>a</orig><reg>á</reg></choice> tu regreso te verás con él y entregarás con tus manos <choice><orig>a</orig><reg>á</reg></choice> nuestro buen Sab su carta de libertad.</p></sp></div>
+            <div><p>Enrique hizo con la cabeza un movimiento de <choice><orig>aprobacion</orig><reg>aprobación</reg></choice>, y Carlota besando la <pb n="120" type="page"/> mano de su padre exclamó con vehemencia.</p></div>
+            <div><sp who="carlota"><p><corr>¡</corr><choice><orig>Si</orig><reg>Sí</reg></choice>, que sea libre !... <choice><orig>ha</orig><reg>Ha</reg></choice> sido el compañero de mi infancia y mi primer amigo... <choice><orig>es</orig><reg>Es</reg></choice> <choice><orig>,</orig><reg>—</reg></choice>añadió con mayor ternura<corr>—</corr>, es el que te prodigó sus cuidados la noche de tu <choice><orig>caida</orig><reg>caída</reg></choice>, Enrique, y quien como un <choice><orig>angel</orig><reg>ángel</reg></choice> de consuelo vino <choice><orig>a</orig><reg>á</reg></choice> volver la paz <choice><orig>a</orig><reg>á</reg></choice> mi <choice><orig>corazon</orig><reg>corazón</reg></choice> sobresaltado.</p></sp></div>
+            <div><p>Teresa entró en la sala en aquel momento: la comida se sirvió inmediatamente y ya no se trató <choice><orig>mas</orig><reg>más</reg></choice> que de la partida.</p></div>
+        </body>
+    </text>
+</TEI>

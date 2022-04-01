@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+   schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>Sab</title>
+       <author>Gertrudis Gómez de Avellaneda</author>
+       <editor>Génesis Natalia Tobón Becerra</editor>
+     </titleStmt>
+     <editionStmt>
+       <edition n="0.0.1-dev">
+         <date when="2021-10-15">Octubre, 15 de 2021</date>
+       </edition>
+     </editionStmt>
+     <publicationStmt>
+       <authority>Universidad de los Andes</authority>
+       <availability status="free">
+         <p>Esta publicación se rige bajo la ley de Dominio Público.</p>
+       </availability>
+     </publicationStmt>
+     <sourceDesc>
+       <p>Primera edición obtenida de Google Books.</p>
+     </sourceDesc>
+   </fileDesc>
+   <encodingDesc>
+     <projectDesc>
+       <p>Esta es una edición digital y crítica de la novela antiesclavista Sab (1841) de la
+          autora cubana Gertrudis Gómez de Avellaneda (1814-1873), realizada como proyecto de grado
+          de la Maestría en Humanidades Digitales de la Universidad de los Andes. </p>
+     </projectDesc>
+     <editorialDecl>
+       <p>La codificación de este texto se realizó siguiendo las recomendaciones guías TEI.</p>
+     </editorialDecl>
+   </encodingDesc>
+   <revisionDesc status="draft">
+     <listChange>
+       <change when="2021-10-15" status="draft" n="0.0.1">
+         <p>Esta es la codificación de "Nota al lector"</p>
+       </change>
+     </listChange>
+   </revisionDesc>
+ </teiHeader>
+ <text type="critical" xml:lang="es">
+   <body>
+       <pb n="5" type="page"/>
+       <div type="titulo">
+         <p>Dos palabras al lector</p>
+       </div>
+     <div><p>Por distraerse de momentos de <choice><orig>ócio</orig><reg>ocio</reg></choice> y melancolía han sido escritas estas <choice><orig>pájinas</orig><reg>páginas</reg></choice>: <choice><orig>La</orig><reg>la</reg></choice> autora no <choice><orig>tenia</orig><reg>tenía</reg></choice> entonces la <choice><orig>intencion</orig><reg>intención</reg></choice> de someterlas al terrible tribunal del público.</p></div>
+     <div><p>Tres años ha dormido esta novelita casi olvidada en el fondo de su papelera: <choice><orig>leida</orig><reg>leída</reg></choice> <choice><orig>despues</orig><reg>después</reg></choice> por algunas personas inteligentes que la han juzgado con benevolencia, y habiéndose interesado muchos amigos de la autora en poseer un ejemplar de ella, se determina <choice><orig>á</orig><reg>a</reg></choice> imprimirla, creyéndose dispensada de hacer una <choice><orig>manifestacion</orig><reg>manifestación</reg></choice> del <pb n="6" type="page"/> pensamiento, plan y desempeño de la obra, al declarar que la publica sin <choice><orig>ningun</orig><reg>ningún</reg></choice> género de pretensiones.</p></div>
+     <div><p>Acaso si esta novelita se escribiese en el <choice><orig>dia</orig><reg>día</reg></choice>, la autora, cuyas ideas han sido modificadas, <choice><orig>haria</orig><reg>haría</reg></choice> en ella algunas variaciones: pero sea por pereza, sea por la repugnancia que sentimos en alterar lo que hemos escrito con una verdadera <choice><orig>conviccion</orig><reg>convicción</reg></choice>, (aun cuando esta llegue <choice><orig>á</orig><reg>a</reg></choice> vacilar<sic>,</sic>)<corr>,</corr> la autora no ha hecho ninguna mudanza en sus borradores primitivos, y espera que si las personas sensatas encuentran algunos errores esparcidos en estas páginas, no olvidarán que han sido dictadas por los sentimientos algunas veces <choice><orig>exajerados</orig><reg>exagerados</reg></choice> pero siempre generosos de la primera juventud.</p></div>
+   </body>
+ </text>
+</TEI>
