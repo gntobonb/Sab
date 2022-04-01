@@ -210,7 +210,7 @@
   <xsl:template match="/TEI/text/body/div/sp/p"><div class="dialogo"><xsl:text>—</xsl:text><xsl:apply-templates/></div></xsl:template>
   
   <!--PÁRRAFOS-->
-  <xsl:template match="/TEI/text/body/div/div/p"><p><xsl:apply-templates/></p></xsl:template>
+  <xsl:template match="p"><div><p><xsl:apply-templates/></p></div></xsl:template>
   
   
   <!--CARTAS-->

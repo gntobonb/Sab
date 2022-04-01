@@ -98,12 +98,6 @@
     </div>
   </xsl:template>
   
-  <!--<xsl:template match="/TEI/text[1]/body[1]/div[2]/p[1]">
-    <div class="epigrafe">
-      <xsl:apply-templates/>
-    </div>
-  </xsl:template>-->
-  
   
   
   <!--SALTOS DE LÍNEA-->
@@ -129,7 +123,7 @@
   
   
   <!--CITAS-->
-  <xsl:template match="/TEI/text[1]/body[1]/div[7]/quote[1]">
+  <xsl:template match="quote[@type='cita']">
     <div class="quote">
       <xsl:apply-templates/>
     </div>    
@@ -210,7 +204,7 @@
   <xsl:template match="/TEI/text/body/div/sp/p"><div class="dialogo"><xsl:text>—</xsl:text><xsl:apply-templates/></div></xsl:template>
   
   <!--PÁRRAFOS-->
-  <xsl:template match="/TEI/text/body/div/div/p"><p><xsl:apply-templates/></p></xsl:template>
+  <xsl:template match="p"><div><p><xsl:apply-templates/></p></div></xsl:template>
   
   
   <!--CARTAS-->
