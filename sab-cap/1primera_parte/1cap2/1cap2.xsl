@@ -49,8 +49,8 @@
       <body>
         <xsl:apply-templates/>
         <br/>
-        <a href="https://gntobonb.github.io/Sab/1cap1.html" class="anterior"><xsl:text>Capítulo I</xsl:text></a>
-       <a href="https://gntobonb.github.io/Sab/1cap3.html" class="siguiente"><xsl:text>Capítulo III</xsl:text></a>
+        <a href="https://gntobonb.github.io/Sab/1cap1.html" class="anterior"><xsl:text>Capítulo IV</xsl:text></a>
+       <a href="https://gntobonb.github.io/Sab/1cap3.html" class="siguiente"><xsl:text>Capítulo VI</xsl:text></a>
           <br/>
             
             <script type="text/javascript" src="js/sab.js"></script>
