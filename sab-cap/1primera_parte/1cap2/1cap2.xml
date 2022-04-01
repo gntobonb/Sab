@@ -44,11 +44,11 @@
         </revisionDesc>
     </teiHeader>
     <text type="critical" xml:lang="es">
-        <body>
+        <body prev="1cap1" next="1cap3" n="2">
             <pb n="27" type="page"/>
-            <span type="titulo">
- Capítulo II
-            </span>
+            <div type="titulo">
+ <p>Capítulo II</p>
+            </div>
             <div><quote type="epigrafe">
                         <lg><l>Diré que su frente brilla</l>
                         <l><choice><orig>mas</orig><reg>más</reg></choice> que nieve en valle oscuro:</l>

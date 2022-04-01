@@ -44,10 +44,10 @@
         </revisionDesc>
     </teiHeader>
     <text type="critical" xml:lang="es">
-        <body>
+        <body prev="1cap3" next="1cap5" n="4">
             <pb n="55" type="page"/>
-            <span type="titulo">
-                Capítulo IV</span>
+            <div type="titulo">
+                <p>Capítulo IV</p></div>
             <div><quote type="epigrafe">
                 <lg><l>No hay mal para el amor correspondido,</l> 
                     <l>no hay bien que no sea mal para el ausente.</l>

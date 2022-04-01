@@ -46,11 +46,11 @@
    </revisionDesc>
  </teiHeader>
  <text type="critical" xml:lang="es">
-   <body>
+   <body prev="nota" next="1cap2" n="1">
        <pb n="7" type="page"/>
-       <span type="titulo">
-         Capítulo I
-       </span>
+       <div type="titulo">
+         <p>Capítulo I</p>
+       </div>
      
      <div><quote type="epigrafe">
          <lg>

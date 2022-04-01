@@ -44,9 +44,9 @@
         </revisionDesc>
     </teiHeader>
     <text type="critical" xml:lang="es">
-        <body>
+        <body prev="1cap2" next="1cap4" n="3">
             <pb n="39" type="page"/>
-            <span type="titulo">Capítulo III</span>
+            <div type="titulo"><p>Capítulo III</p></div>
             <div><quote type="epigrafe"><lg><l>Mujer quiero con caudal.</l><l>CAÑIZARES<sic>.</sic></l></lg></quote></div>
             <div><p>Sabido es que las riquezas de Cuba atraen en todo tiempo innumerables <choice><orig>estrangeros</orig><reg>extranjeros</reg></choice> que<corr>,</corr> con mediana<sic>;</sic> industria y actividad no tardan en enriquecerse de una manera asombrosa para los indolentes isleños, que satisfechos con la fertilidad de su suelo, y <pb n="40" type="page"/> con la facilidad con que se vive en un <choice><orig>pais</orig><reg>país</reg></choice> de abundancia, se adormecen<corr>,</corr> por decirlo asi, bajo su sol de fuego, y abandonan <choice><orig>á</orig><reg>a</reg></choice> la codicia y actividad de los europeos todos los ramos de agricultura, comercio <choice><orig>é</orig><reg>e</reg></choice>industria, con los cuales se levantan en corto número de años innumerables familias.</p></div>
             <div><p>Jorge Otway fue uno de los muchos hombres que se elevan de la nada en poco tiempo <choice><orig>á</orig><reg>a</reg></choice> favor de las riquezas en aquel pais nuevo y fecundo. Era inglés: <choice><orig>habia</orig><reg>había</reg></choice> sido buhonero algunos años en los Estados <choice><orig>unidos</orig><reg>Unidos</reg></choice> de la América del <choice><orig>norte</orig><reg>Norte</reg></choice>, <choice><orig>despues</orig><reg>después</reg></choice> en la ciudad de la Habana, y últimamente llegó <choice><orig>á</orig><reg>a</reg></choice> <choice><orig>Puerto-Principe</orig><reg>Puerto Príncipe</reg></choice> traficando con lienzos, cuando contaba <choice><orig>mas</orig><reg>más</reg></choice> de treinta años, trayendo con sigo un hijo de seis, único fruto que le <choice><orig>quedára</orig><reg>quedara</reg></choice> de su matrimonio.</p></div>

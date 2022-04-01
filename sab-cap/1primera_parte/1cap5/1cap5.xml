@@ -44,11 +44,11 @@
         </revisionDesc>
     </teiHeader>
     <text type="critical" xml:lang="es">
-        <body>
+        <body prev="1cap4" next="1cap6" n="5">
             <pb n="69" type="page"/>
-            <span type="titulo">
-               Capítulo V
-            </span>
+            <div type="titulo">
+               <p>Capítulo V</p>
+            </div>
             <div><quote type="epigrafe">
                 <lg><l>... La tormenta <choice><orig>umbria</orig><reg>umbría</reg></choice></l>
                 <l>en los aires revuelve un Océano</l>
