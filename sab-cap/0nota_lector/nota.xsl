@@ -135,9 +135,6 @@
     </div>    
   </xsl:template>
   
-  <xsl:template match="p">
-    <xsl:apply-templates/>
-  </xsl:template>
   
   
   
