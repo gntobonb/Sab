@@ -44,7 +44,7 @@
         </revisionDesc>
     </teiHeader>
     <text type="critical" xml:lang="es">
-        <body>
+        <body prev="1cap11" n="1" next="2cap2">
             <pb n="5" type="page"/>
             <div type="titulo">
                 <p>Capítulo I</p>

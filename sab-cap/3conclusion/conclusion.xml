@@ -44,7 +44,7 @@
         </revisionDesc>
     </teiHeader>
     <text type="critical" xml:lang="es">
-        <body>
+        <body prev="2cap5" n="12">
             <pb n="112" type="page"/>
             <div type="titulo">
                 <p>Conclusión</p>
@@ -131,6 +131,6 @@
             <div><p>Desde entonces nadie ha vuelto sin duda <choice><orig>á</orig><reg>a</reg></choice> orar al pie de la tosca cruz de madera, único monumento erigido <choice><orig>á</orig><reg>a</reg></choice> la memoria de Sab: pero acaso se acuerde <choice><orig>todavia</orig><reg>todavía</reg></choice> <choice><orig>algun</orig><reg>algún</reg></choice> sencillo labrador de la tierra roja, del tiempo en que una vieja y un perro <choice><orig>venian</orig><reg>venían</reg></choice> <choice><orig>á</orig><reg>a</reg></choice> visitar aquella humilde sepultura, y de la <choice><orig>vision</orig><reg>visión</reg></choice> misteriosa que posteriormente se dejó ver todas las noches por espacio de tres meses, en el mismo lugar.</p></div>
             <div><p><choice><orig>Deseariamos</orig><reg>Desearíamos</reg></choice> <choice><orig>tambien</orig><reg>también</reg></choice> dar noticias al lector de la hermosa y doliente Carlota, pero aunque hemos procurado indagar <choice><orig>cual</orig><reg>cuál</reg></choice> es actualmente su suerte, no hemos podido saberlo. Verosímilmente su marido, cuyas riquezas se <choice><orig>habian</orig><reg>habían</reg></choice> aumentado considerablemente en pocos años, muerto su padre habrá <choice><orig>creido</orig><reg>creído</reg></choice> conveniente establecerse en una ciudad maritima y de <choice><orig>mas</orig><reg>más</reg></choice> <pb n="152" type="page"/> <choice><orig>consideracion</orig><reg>consideración</reg></choice> que <choice><orig>Puerto-Príncipe</orig><reg>Puerto Príncipe</reg></choice>. Acaso Carlota, como lo <choice><orig>habia</orig><reg>había</reg></choice> previsto Teresa, existirá actualmente en la populosa Londres. Pero cualquiera que sea su destino, y el <choice><orig>pais</orig><reg>país</reg></choice> del mundo donde habite, ¿habrá podido olvidar la hija de los trópicos, al esclavo que descansa en una humilde sepultura bajo aquel hermoso cielo?</p></div>
             <span>FIN.</span>
-        c</body>
+        </body>
     </text>
 </TEI>
