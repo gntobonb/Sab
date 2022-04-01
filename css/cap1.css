@@ -200,7 +200,7 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3, body.dark-mode h4 {
 /*--------------------------CARTAS------------------------------*/
 
 .carta {
-    text-indent: 25pt;
+    margin-left: 10%;
 }
 /*------------------------------------------------------------*/
 
