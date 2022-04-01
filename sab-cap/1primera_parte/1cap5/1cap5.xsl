@@ -172,13 +172,13 @@
   
   <!--NOTAS EXPOSITIVAS-->
   <xsl:template match="note[@type='expo']">
-    <span class="nota"><input type="checkbox" id="cb"/>
+    <div class="nota"><input type="checkbox" id="cb"/>
       <label for="cb">
         <sup>*</sup>
       </label>
       <span><div class="regulado"><span class="abreviatura">Nota expositiva</span><xsl:text>N. E. </xsl:text></div>
         <xsl:apply-templates/></span>
-    </span>
+    </div>
   </xsl:template>
   
   
