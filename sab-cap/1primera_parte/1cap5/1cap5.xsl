@@ -215,9 +215,9 @@
   <xsl:template match="p"><div><p><xsl:apply-templates/></p></div></xsl:template>
   
   
-  <!--CARTAS-->
   
-  <xsl:template match="div[@type='carta']"><div class="carta"></div></xsl:template>
+  <!--CARTAS-->
+  <xsl:template match="div[@type='carta']"><div class="carta"><xsl:apply-templates/></div></xsl:template>
   
   
   
