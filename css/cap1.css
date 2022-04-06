@@ -24,7 +24,7 @@ img {
 .portada {
   position: fixed;
   margin-right: 63%;
-  margin-top: 12%;
+  /*margin-top: 12%;*/
 }
 
 /*.portada:hover{
