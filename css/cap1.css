@@ -9,6 +9,10 @@ body {
   transition: all 0.3s ease;
 }
 
+div {
+    text-indent:5%;
+}
+
 .dark-mode {
   background-color: #010101;
   color: #8d8d8d;
