@@ -216,8 +216,30 @@
     </span>
   </xsl:template>
   
+  <!--PRUEBA EXPO-->
+  <xsl:template match="note[@type='expo']">
+    <xsl:variable name="idnota">
+      <xsl:value-of select="generate-id()"/>
+    </xsl:variable>
+    <div class="nota">
+      <input type="checkbox">
+        <xsl:attribute name="id">
+          <xsl:value-of select="$idnota"/>
+        </xsl:attribute>
+      </input>
+      <label>
+        <xsl:attribute name="for">
+          <xsl:value-of select="$idnota"/>
+        </xsl:attribute>
+        <sup>*</sup>
+      </label>
+      <span><div class="regulado"><span class="abreviatura">Nota expositiva</span><xsl:text>N. E. </xsl:text></div>
+        <xsl:apply-templates/></span>
+    </div>
+  </xsl:template>
   
-  <!--NOTAS EXPOSITIVAS-->
+  
+  <!--NOTAS EXPOSITIVAS
   <xsl:template match="note[@type='expo']">
     <div class="nota"><input type="checkbox" id="cb
       "/>
@@ -227,7 +249,7 @@
       <span><div class="regulado"><span class="abreviatura">Nota expositiva</span><xsl:text>N. E. </xsl:text></div>
         <xsl:apply-templates/></span>
     </div>
-  </xsl:template>
+  </xsl:template>-->
   
   
   
