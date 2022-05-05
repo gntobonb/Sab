@@ -15,12 +15,12 @@ body {
 }
 
 /*------------------- PANEL INMOVIL/de PRESENTACIÓN ---------------------------*/
-img {
+/* img {
   position:fixed;
   right:0px;
   top:0px;
   margin-left: -27%;
-}
+}* */
 
 .portada {
   position: fixed;
