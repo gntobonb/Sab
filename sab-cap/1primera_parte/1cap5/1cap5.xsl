@@ -216,7 +216,7 @@
     </span>
   </xsl:template>
   
-  <!--PRUEBA EXPO-->
+  <!--NOTAS EXPOSITIVAS-->
   <xsl:template match="note[@type='expo']">
     <xsl:variable name="idnota">
       <xsl:value-of select="generate-id()"/>
@@ -239,25 +239,24 @@
   </xsl:template>
   
   
-  <!--NOTAS EXPOSITIVAS
-  <xsl:template match="note[@type='expo']">
-    <div class="nota"><input type="checkbox" id="cb
-      "/>
-      <label for="cb">
-        <sup>*</sup>
-      </label>
-      <span><div class="regulado"><span class="abreviatura">Nota expositiva</span><xsl:text>N. E. </xsl:text></div>
-        <xsl:apply-templates/></span>
-    </div>
-  </xsl:template>-->
-  
   
   
   
   <!--NOTAS CRÍTICAS-->
   <xsl:template match="note[@type='critico']">
-    <div class="nota"><input type="checkbox" id="cb"/>
-      <label for="cb">
+    <xsl:variable name="idnota">
+      <xsl:value-of select="generate-id()"/>
+    </xsl:variable>
+    <div class="nota">
+      <input type="checkbox">
+        <xsl:attribute name="id">
+          <xsl:value-of select="$idnota"/>
+        </xsl:attribute>
+      </input>
+      <label>
+        <xsl:attribute name="for">
+          <xsl:value-of select="$idnota"/>
+        </xsl:attribute>
         <sup>*</sup>
       </label>
       <span><div class="regulado"><span class="abreviatura">Nota crítica</span><xsl:text>N. C. </xsl:text></div>
@@ -267,14 +266,29 @@
   
   
   
+  
   <!--NOTAS DE LA AUTORA-->
-  <xsl:template match="note[@type='autora']">
-    <div class="nota"><input type="checkbox" id="cd"/>
-      <label for="cb">
+  <xsl:template match="note[@type='expo']">
+    <xsl:variable name="idnota">
+      <xsl:value-of select="generate-id()"/>
+    </xsl:variable>
+    <div class="nota">
+      <input type="checkbox">
+        <xsl:attribute name="id">
+          <xsl:value-of select="$idnota"/>
+        </xsl:attribute>
+      </input>
+      <label>
+        <xsl:attribute name="for">
+          <xsl:value-of select="$idnota"/>
+        </xsl:attribute>
         <sup>*</sup>
       </label>
-      <span><div class="regulado"><span class="abreviatura">Nota de la autora</span><xsl:text>N. A. </xsl:text></div><xsl:apply-templates/></span></div>
+      <span><div class="regulado"><span class="abreviatura">Nota de la autora</span><xsl:text>N. A. </xsl:text></div>
+        <xsl:apply-templates/></span>
+    </div>
   </xsl:template>
+  
   
   
   
