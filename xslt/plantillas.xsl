@@ -268,7 +268,7 @@
   
   
   <!--NOTAS DE LA AUTORA-->
-  <xsl:template match="note[@type='expo']">
+  <xsl:template match="note[@type='autora']">
     <xsl:variable name="idnota">
       <xsl:value-of select="generate-id()"/>
     </xsl:variable>
