@@ -9,9 +9,6 @@ body {
   transition: all 0.3s ease;
 }
 
-div {
-    display:inline;
-}
 .dark-mode {
   background-color: #010101;
   color: #8d8d8d;
