@@ -296,7 +296,7 @@
   <xsl:template match="/TEI/text/body/div/sp/p"><div class="dialogo"><xsl:text>—</xsl:text><xsl:apply-templates/></div></xsl:template>
   
   <!--PÁRRAFOS-->
-  <xsl:template match="p"><div><xsl:apply-templates/></div></xsl:template>
+  <xsl:template match="p"><div class="parrafo"><xsl:apply-templates/></div></xsl:template>
   
   
   
