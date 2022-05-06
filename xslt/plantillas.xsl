@@ -144,14 +144,6 @@
     </div>
   </xsl:template>
   
-  <!--<xsl:template match="/TEI/text[1]/body[1]/div[2]/p[1]">
-    <div class="epigrafe">
-      <xsl:apply-templates/>
-    </div>
-  </xsl:template>-->
-  
-  
-  
   <!--SALTOS DE LÍNEA-->
   <xsl:template match="l">
     <xsl:apply-templates/>
