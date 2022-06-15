@@ -113,15 +113,6 @@
     <!--no haga nada-->
   </xsl:template>
   
- <!-- <xsl:template match="/TEI/text[1]/body[1]/div[1]/p[1]">
-    <!-\-no haga nada-\->
-  </xsl:template>-->
-  
-  <!--<xsl:template match="/TEI/text[1]/body[1]/div[1]/p[2]">
-    <!-\-no haga nada-\->
-  </xsl:template>
-  -->
-  
   
   
   
@@ -287,7 +278,7 @@
   <xsl:template match="/TEI/text/body/div/sp/p"><div class="dialogo"><xsl:text>—</xsl:text><xsl:apply-templates/></div></xsl:template>
   
   <!--PÁRRAFOS-->
-  <xsl:template match="p"><div><xsl:apply-templates/></div><br/></xsl:template>
+  <xsl:template match="p"><div><p><xsl:apply-templates/></p></div><br/></xsl:template>
   
   
   
