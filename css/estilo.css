@@ -7,6 +7,7 @@ body {
   font-weight: normal;
   color: #444444;
   transition: all 0.3s ease;
+  line-height: 1;
 }
 
 .dark-mode {
@@ -187,9 +188,6 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3, body.dark-mode h4 {
     line-height: 0.8;
 }
 
-br {
-    line-height: 1;
-}
 /*--------------------------------------------------------------*/
 /*--------------------------CARTAS------------------------------*/
 
