@@ -49,11 +49,6 @@ body {
   margin-top: 12%;
 }
 
-/*.portada:hover{
-  opacity: 0.5;
-}*/
-
-
 
 .indice {
   position: fixed;
@@ -223,16 +218,16 @@ input[type=checkbox]:checked ~ span {
 input[type=checkbox] ~ label {
   display:inline;
   cursor:pointer;
-  color:#6D8DBE;
+  color:#D35400;
 }
 
 input[type=checkbox] ~ label:hover {
   cursor:pointer;
-  color:#D35400 ;
+  color:#6D8DBE;
 }
 
 input[type=checkbox]:checked ~ label {
-  color:#D35400 ;
+  color:#6D8DBE;
   text-decoration:none;
 }
 /*--------------------------------------------------------------*/
@@ -389,54 +384,3 @@ input[type=checkbox]:checked ~ label {
 }
 
 /*--------------------------------------------------------------*/
-
-
-/* ---------------------BOTON DE SWITCH--------------------*/
-
-/*button .switch {
-  background-color: #b4b2b2;
-  border-radius: 1000px;
-  border:none;
-  position: relative;
-  cursor:pointer; 
-  display:flex;
-  outline: none;
-  margin-left: 75%;
-  margin-top: -15%;
-}
-
-button .switch:after {
-  content: "";
-  display: block;
-  width: 16px;
-  height: 16px;
-  position:absolute;
-  background-color: #F1F1F1;
-  border-color: #7c7c7c;
-  top:-1;
-  left:0;
-  right: unset;
-  border-radius: 100px;
-  transition: all 0.3s ease;
-  -webkit-transition: all 0.3s ease;
-  box-shadow: 0px 0px 1px 1px rgba(0,0,0,.2);
-}
-
-button .switch:active {
-  background-color: #343D5b;
-  color: #010101;
-}
-
-button .switch:active::after {
-  position: absolute;
-  right: 0;
-  left: unset;
-}
-
-span .oscuro {
-  width: 10px;
-  height: 12px;
-  display: block;  
-  background: none;
-  color:#fff;
-}*/
