@@ -186,6 +186,10 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3, body.dark-mode h4 {
     font-size: 13pt;
     line-height: 0.8;
 }
+
+br {
+    line-height: 1;
+}
 /*--------------------------------------------------------------*/
 /*--------------------------CARTAS------------------------------*/
 
