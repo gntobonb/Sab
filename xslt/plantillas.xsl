@@ -158,7 +158,7 @@
   
   
   <!--CITAS-->
-  <xsl:template match="/TEI/text[1]/body[1]/div[7]/quote[1]">
+  <xsl:template match="quote[@type='cita']">
     <div class="quote">
       <xsl:apply-templates/>
     </div>    
@@ -179,7 +179,7 @@
   
   <!--ABREVIATURAS-->
   <xsl:template match="abbr">
-    <span class="abreviatura"><xsl:text>(abrev.)</xsl:text> <xsl:apply-templates/>
+    <span class="abreviatura"><xsl:text>(abrev.) </xsl:text> <xsl:apply-templates/>
     </span>
   </xsl:template>
   
