@@ -10,6 +10,12 @@ body {
   line-height: 0.5;
 }
 
+br {
+    font-size:15pt;
+    line-height:0.5;
+}
+   
+
 .dark-mode {
   background-color: #010101;
   color: #8d8d8d;
