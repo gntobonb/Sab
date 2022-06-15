@@ -7,13 +7,7 @@ body {
   font-weight: normal;
   color: #444444;
   transition: all 0.3s ease;
-  line-height: 1.5;
 }
-
-/*br {
-    font-size:15pt;
-    line-height:0.5;
-}*/
    
 
 .dark-mode {
