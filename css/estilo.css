@@ -185,7 +185,7 @@ body.dark-mode h1, body.dark-mode h2, body.dark-mode h3, body.dark-mode h4 {
     text-indent:5%;
     text-align:right;
     font-size: 13pt;
-    line-height: 1;
+    line-height: 1.3;
 }
 
 .quote {
