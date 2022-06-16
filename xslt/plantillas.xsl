@@ -135,6 +135,12 @@
     </div>
   </xsl:template>
   
+  <xsl:template match="quote[@type='pepigrafe']">
+    <div class="pepigrafe">
+      <xsl:apply-templates/>
+    </div>
+  </xsl:template>
+  
   <!--SALTOS DE LÍNEA-->
   <xsl:template match="l">
     <xsl:apply-templates/>
